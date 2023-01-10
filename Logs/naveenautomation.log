@@ -1,0 +1,339 @@
+2023-01-09 20:16:57 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 20:17:01 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 20:17:01 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-09 20:17:01 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-09 20:17:01 INFO  WebDriverEvents:112 - Clicking on[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: li.dropdown span:first-of-type]
+2023-01-09 20:17:01 INFO  WebDriverEvents:119 - Clicked on[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: li.dropdown span:first-of-type]
+2023-01-09 20:17:01 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Login']
+2023-01-09 20:17:01 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Login']
+2023-01-09 20:17:01 INFO  WebDriverEvents:112 - Clicking on[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> xpath: //a[text()='Login']]
+2023-01-09 20:17:01 INFO  WebDriverEvents:119 - Clicked on[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> xpath: //a[text()='Login']]
+2023-01-09 20:17:01 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-email
+2023-01-09 20:17:01 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-email
+2023-01-09 20:17:01 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-password
+2023-01-09 20:17:01 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-password
+2023-01-09 20:17:01 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input.btn
+2023-01-09 20:17:02 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input.btn
+2023-01-09 20:17:02 INFO  WebDriverEvents:112 - Clicking on[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: input.btn]
+2023-01-09 20:17:02 INFO  WebDriverEvents:119 - Clicked on[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: input.btn]
+2023-01-09 20:17:02 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToAddProductsToWishList
+2023-01-09 20:17:02 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #content h2:first-of-type
+2023-01-09 20:17:02 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #content h2:first-of-type
+2023-01-09 20:17:02 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: #content h2:first-of-type]
+2023-01-09 20:17:02 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: #content h2:first-of-type]
+2023-01-09 20:17:02 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #menu>div:last-of-type>ul>li:nth-of-type(2)>a
+2023-01-09 20:17:02 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #menu>div:last-of-type>ul>li:nth-of-type(2)>a
+2023-01-09 20:17:02 INFO  WebDriverEvents:112 - Clicking on[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: #menu>div:last-of-type>ul>li:nth-of-type(2)>a]
+2023-01-09 20:17:02 INFO  WebDriverEvents:119 - Clicked on[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: #menu>div:last-of-type>ul>li:nth-of-type(2)>a]
+2023-01-09 20:17:02 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Show All Laptops & Notebooks']
+2023-01-09 20:17:02 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Show All Laptops & Notebooks']
+2023-01-09 20:17:02 INFO  WebDriverEvents:112 - Clicking on[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> xpath: //a[text()='Show All Laptops & Notebooks']]
+2023-01-09 20:17:04 INFO  WebDriverEvents:119 - Clicked on[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> xpath: //a[text()='Show All Laptops & Notebooks']]
+2023-01-09 20:17:04 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-sort
+2023-01-09 20:17:04 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-sort
+2023-01-09 20:17:04 INFO  WebDriverEvents:112 - Clicking on[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: #input-sort]
+2023-01-09 20:17:04 INFO  WebDriverEvents:119 - Clicked on[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: #input-sort]
+2023-01-09 20:17:04 INFO  WebDriverEvents:98 - Finding Element By.xpath: //option[text()='Rating (Highest)']
+2023-01-09 20:17:04 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //option[text()='Rating (Highest)']
+2023-01-09 20:17:04 INFO  WebDriverEvents:112 - Clicking on[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> xpath: //option[text()='Rating (Highest)']]
+2023-01-09 20:17:05 INFO  WebDriverEvents:119 - Clicked on[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> xpath: //option[text()='Rating (Highest)']]
+2023-01-09 20:17:05 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: button[onclick="wishlist.add('46');"]
+2023-01-09 20:17:05 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: button[onclick="wishlist.add('46');"]
+2023-01-09 20:17:05 INFO  WebDriverEvents:112 - Clicking on[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: button[onclick="wishlist.add('46');"]]
+2023-01-09 20:17:05 INFO  WebDriverEvents:119 - Clicked on[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: button[onclick="wishlist.add('46');"]]
+2023-01-09 20:17:05 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: button[onclick="wishlist.add('45');"]
+2023-01-09 20:17:05 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: button[onclick="wishlist.add('45');"]
+2023-01-09 20:17:05 INFO  WebDriverEvents:112 - Clicking on[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: button[onclick="wishlist.add('45');"]]
+2023-01-09 20:17:05 INFO  WebDriverEvents:119 - Clicked on[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: button[onclick="wishlist.add('45');"]]
+2023-01-09 20:17:05 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: button[onclick="wishlist.add('44');"]
+2023-01-09 20:17:05 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: button[onclick="wishlist.add('44');"]
+2023-01-09 20:17:05 INFO  WebDriverEvents:112 - Clicking on[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: button[onclick="wishlist.add('44');"]]
+2023-01-09 20:17:05 INFO  WebDriverEvents:119 - Clicked on[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: button[onclick="wishlist.add('44');"]]
+2023-01-09 20:17:07 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: div.alert
+2023-01-09 20:17:07 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: div.alert
+2023-01-09 20:17:07 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: div.alert]
+2023-01-09 20:17:07 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: div.alert]
+2023-01-09 20:17:07 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: div.alert a:last-of-type
+2023-01-09 20:17:07 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: div.alert a:last-of-type
+2023-01-09 20:17:07 INFO  WebDriverEvents:112 - Clicking on[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: div.alert a:last-of-type]
+2023-01-09 20:17:08 INFO  WebDriverEvents:119 - Clicked on[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: div.alert a:last-of-type]
+2023-01-09 20:17:08 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: table.table thead tr td
+2023-01-09 20:17:08 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: table.table thead tr td
+2023-01-09 20:17:08 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: table.table tbody tr
+2023-01-09 20:17:08 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: table.table tbody tr
+2023-01-09 20:17:08 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-09 20:17:08 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-09 20:17:08 INFO  WebDriverEvents:180 - Switching to window text from [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:187 - Switched to window text from  [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:180 - Switching to window text from [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:187 - Switched to window text from  [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: table.table thead tr td
+2023-01-09 20:17:08 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: table.table thead tr td
+2023-01-09 20:17:08 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: table.table tbody tr
+2023-01-09 20:17:08 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: table.table tbody tr
+2023-01-09 20:17:08 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-09 20:17:08 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-09 20:17:08 INFO  WebDriverEvents:180 - Switching to window text from [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:187 - Switched to window text from  [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-09 20:17:08 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-09 20:17:08 INFO  WebDriverEvents:180 - Switching to window text from [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:187 - Switched to window text from  [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:180 - Switching to window text from [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:187 - Switched to window text from  [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: table.table thead tr td
+2023-01-09 20:17:08 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: table.table thead tr td
+2023-01-09 20:17:08 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: table.table tbody tr
+2023-01-09 20:17:08 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: table.table tbody tr
+2023-01-09 20:17:08 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-09 20:17:08 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-09 20:17:08 INFO  WebDriverEvents:180 - Switching to window text from [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:187 - Switched to window text from  [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-09 20:17:08 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-09 20:17:08 INFO  WebDriverEvents:180 - Switching to window text from [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:187 - Switched to window text from  [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-09 20:17:08 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-09 20:17:08 INFO  WebDriverEvents:180 - Switching to window text from [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:187 - Switched to window text from  [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:180 - Switching to window text from [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:187 - Switched to window text from  [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: table.table thead tr td
+2023-01-09 20:17:08 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: table.table thead tr td
+2023-01-09 20:17:08 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:08 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: table.table tbody tr
+2023-01-09 20:17:08 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: table.table tbody tr
+2023-01-09 20:17:08 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-09 20:17:08 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-09 20:17:08 INFO  WebDriverEvents:180 - Switching to window text from [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:187 - Switched to window text from  [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:180 - Switching to window text from [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:187 - Switched to window text from  [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: table.table thead tr td
+2023-01-09 20:17:09 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: table.table thead tr td
+2023-01-09 20:17:09 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: table.table tbody tr
+2023-01-09 20:17:09 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: table.table tbody tr
+2023-01-09 20:17:09 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-09 20:17:09 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-09 20:17:09 INFO  WebDriverEvents:180 - Switching to window text from [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:187 - Switched to window text from  [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-09 20:17:09 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-09 20:17:09 INFO  WebDriverEvents:180 - Switching to window text from [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:187 - Switched to window text from  [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:180 - Switching to window text from [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:187 - Switched to window text from  [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: table.table thead tr td
+2023-01-09 20:17:09 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: table.table thead tr td
+2023-01-09 20:17:09 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table thead tr td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: table.table tbody tr
+2023-01-09 20:17:09 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: table.table tbody tr
+2023-01-09 20:17:09 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-09 20:17:09 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-09 20:17:09 INFO  WebDriverEvents:180 - Switching to window text from [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:187 - Switched to window text from  [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-09 20:17:09 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-09 20:17:09 INFO  WebDriverEvents:180 - Switching to window text from [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:187 - Switched to window text from  [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-09 20:17:09 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-09 20:17:09 INFO  WebDriverEvents:180 - Switching to window text from [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:187 - Switched to window text from  [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:180 - Switching to window text from [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:187 - Switched to window text from  [[[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-09 20:17:09 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: a[href$='remove=46']
+2023-01-09 20:17:09 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: a[href$='remove=46']
+2023-01-09 20:17:09 INFO  WebDriverEvents:112 - Clicking on[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: a[href$='remove=46']]
+2023-01-09 20:17:10 INFO  WebDriverEvents:119 - Clicked on[[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: a[href$='remove=46']]
+2023-01-09 20:17:10 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #content h2
+2023-01-09 20:17:10 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #content h2
+2023-01-09 20:17:10 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: #content h2]
+2023-01-09 20:17:10 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: #content h2]
+2023-01-09 20:17:10 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: div.alert
+2023-01-09 20:17:10 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: div.alert
+2023-01-09 20:17:10 INFO  WebDriverEvents:180 - Switching to window text from [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: div.alert]
+2023-01-09 20:17:10 INFO  WebDriverEvents:187 - Switched to window text from  [[EdgeDriver: msedge on WINDOWS (0e8bf9d9926b9d6e9201ff7ccaf65fd3)] -> css selector: div.alert]
+2023-01-09 20:17:10 INFO  CustomListener:22 - Test execution has passed for : verifyUserIsAbleToAddProductsToWishList
+2023-01-09 20:19:21 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 20:19:23 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 20:19:23 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-09 20:19:24 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-09 20:19:24 INFO  WebDriverEvents:112 - Clicking on[[EdgeDriver: msedge on WINDOWS (b045d97866b758b969a2b0368b34e73e)] -> css selector: li.dropdown span:first-of-type]
+2023-01-09 20:19:24 INFO  WebDriverEvents:119 - Clicked on[[EdgeDriver: msedge on WINDOWS (b045d97866b758b969a2b0368b34e73e)] -> css selector: li.dropdown span:first-of-type]
+2023-01-09 20:19:24 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Login']
+2023-01-09 20:19:24 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Login']
+2023-01-09 20:19:24 INFO  WebDriverEvents:112 - Clicking on[[EdgeDriver: msedge on WINDOWS (b045d97866b758b969a2b0368b34e73e)] -> xpath: //a[text()='Login']]
+2023-01-09 20:19:24 INFO  WebDriverEvents:119 - Clicked on[[EdgeDriver: msedge on WINDOWS (b045d97866b758b969a2b0368b34e73e)] -> xpath: //a[text()='Login']]
+2023-01-09 20:19:24 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-email
+2023-01-09 20:19:24 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-email
+2023-01-09 20:19:24 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-password
+2023-01-09 20:19:24 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-password
+2023-01-09 20:19:24 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input.btn
+2023-01-09 20:19:24 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input.btn
+2023-01-09 20:19:24 INFO  WebDriverEvents:112 - Clicking on[[EdgeDriver: msedge on WINDOWS (b045d97866b758b969a2b0368b34e73e)] -> css selector: input.btn]
+2023-01-09 20:19:25 INFO  WebDriverEvents:119 - Clicked on[[EdgeDriver: msedge on WINDOWS (b045d97866b758b969a2b0368b34e73e)] -> css selector: input.btn]
+2023-01-09 20:19:25 INFO  CustomListener:17 - Test execution has started for: testSomething
+2023-01-09 20:19:25 ERROR CustomListener:28 - Test execution failed and taking screen shot: testSomething
+2023-01-09 20:19:25 ERROR CustomListener:28 - Test execution failed and taking screen shot: testSomething
+2023-01-09 20:32:42 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 20:32:45 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 20:32:46 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-09 20:32:46 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-09 20:32:46 INFO  WebDriverEvents:112 - Clicking on[[EdgeDriver: msedge on WINDOWS (fb60f91063acb127cee6f491c87b72f4)] -> css selector: li.dropdown span:first-of-type]
+2023-01-09 20:32:46 INFO  WebDriverEvents:119 - Clicked on[[EdgeDriver: msedge on WINDOWS (fb60f91063acb127cee6f491c87b72f4)] -> css selector: li.dropdown span:first-of-type]
+2023-01-09 20:32:46 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Login']
+2023-01-09 20:32:46 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Login']
+2023-01-09 20:32:46 INFO  WebDriverEvents:112 - Clicking on[[EdgeDriver: msedge on WINDOWS (fb60f91063acb127cee6f491c87b72f4)] -> xpath: //a[text()='Login']]
+2023-01-09 20:32:46 INFO  WebDriverEvents:119 - Clicked on[[EdgeDriver: msedge on WINDOWS (fb60f91063acb127cee6f491c87b72f4)] -> xpath: //a[text()='Login']]
+2023-01-09 20:32:46 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-email
+2023-01-09 20:32:46 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-email
+2023-01-09 20:32:46 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-password
+2023-01-09 20:32:46 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-password
+2023-01-09 20:32:46 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input.btn
+2023-01-09 20:32:46 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input.btn
+2023-01-09 20:32:46 INFO  WebDriverEvents:112 - Clicking on[[EdgeDriver: msedge on WINDOWS (fb60f91063acb127cee6f491c87b72f4)] -> css selector: input.btn]
+2023-01-09 20:32:47 INFO  WebDriverEvents:119 - Clicked on[[EdgeDriver: msedge on WINDOWS (fb60f91063acb127cee6f491c87b72f4)] -> css selector: input.btn]
+2023-01-09 20:32:47 INFO  CustomListener:17 - Test execution has started for: testSomething
+2023-01-09 20:32:47 ERROR CustomListener:28 - Test execution failed and taking screen shot: testSomething
+2023-01-09 20:32:47 ERROR CustomListener:28 - Test execution failed and taking screen shot: testSomething
+2023-01-09 20:40:29 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 20:40:31 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 20:40:32 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-09 20:40:32 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-09 20:40:32 INFO  WebDriverEvents:112 - Clicking on[[EdgeDriver: msedge on WINDOWS (43ef5161ac5ad2741252f6084e74b991)] -> css selector: li.dropdown span:first-of-type]
+2023-01-09 20:40:32 INFO  WebDriverEvents:119 - Clicked on[[EdgeDriver: msedge on WINDOWS (43ef5161ac5ad2741252f6084e74b991)] -> css selector: li.dropdown span:first-of-type]
+2023-01-09 20:40:32 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Login']
+2023-01-09 20:40:32 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Login']
+2023-01-09 20:40:32 INFO  WebDriverEvents:112 - Clicking on[[EdgeDriver: msedge on WINDOWS (43ef5161ac5ad2741252f6084e74b991)] -> xpath: //a[text()='Login']]
+2023-01-09 20:40:32 INFO  WebDriverEvents:119 - Clicked on[[EdgeDriver: msedge on WINDOWS (43ef5161ac5ad2741252f6084e74b991)] -> xpath: //a[text()='Login']]
+2023-01-09 20:40:32 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-email
+2023-01-09 20:40:32 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-email
+2023-01-09 20:40:33 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-password
+2023-01-09 20:40:33 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-password
+2023-01-09 20:40:33 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input.btn
+2023-01-09 20:40:33 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input.btn
+2023-01-09 20:40:33 INFO  WebDriverEvents:112 - Clicking on[[EdgeDriver: msedge on WINDOWS (43ef5161ac5ad2741252f6084e74b991)] -> css selector: input.btn]
+2023-01-09 20:40:34 INFO  WebDriverEvents:119 - Clicked on[[EdgeDriver: msedge on WINDOWS (43ef5161ac5ad2741252f6084e74b991)] -> css selector: input.btn]
+2023-01-09 20:40:34 INFO  CustomListener:17 - Test execution has started for: testSomething
+2023-01-09 20:40:34 ERROR CustomListener:28 - Test execution failed and taking screen shot: testSomething
+2023-01-09 20:40:34 ERROR CustomListener:28 - Test execution failed and taking screen shot: testSomething
+2023-01-09 20:45:36 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 20:45:39 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 20:45:39 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-09 20:45:39 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-09 20:45:39 INFO  WebDriverEvents:112 - Clicking on[[EdgeDriver: msedge on WINDOWS (d476504d5fc651d758882c4bb7082002)] -> css selector: li.dropdown span:first-of-type]
+2023-01-09 20:45:39 INFO  WebDriverEvents:119 - Clicked on[[EdgeDriver: msedge on WINDOWS (d476504d5fc651d758882c4bb7082002)] -> css selector: li.dropdown span:first-of-type]
+2023-01-09 20:45:39 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Login']
+2023-01-09 20:45:39 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Login']
+2023-01-09 20:45:39 INFO  WebDriverEvents:112 - Clicking on[[EdgeDriver: msedge on WINDOWS (d476504d5fc651d758882c4bb7082002)] -> xpath: //a[text()='Login']]
+2023-01-09 20:45:40 INFO  WebDriverEvents:119 - Clicked on[[EdgeDriver: msedge on WINDOWS (d476504d5fc651d758882c4bb7082002)] -> xpath: //a[text()='Login']]
+2023-01-09 20:45:40 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-email
+2023-01-09 20:45:40 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-email
+2023-01-09 20:45:40 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-password
+2023-01-09 20:45:40 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-password
+2023-01-09 20:45:40 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input.btn
+2023-01-09 20:45:40 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input.btn
+2023-01-09 20:45:40 INFO  WebDriverEvents:112 - Clicking on[[EdgeDriver: msedge on WINDOWS (d476504d5fc651d758882c4bb7082002)] -> css selector: input.btn]
+2023-01-09 20:45:41 INFO  WebDriverEvents:119 - Clicked on[[EdgeDriver: msedge on WINDOWS (d476504d5fc651d758882c4bb7082002)] -> css selector: input.btn]
+2023-01-09 20:45:41 INFO  CustomListener:17 - Test execution has started for: testSomething
+2023-01-09 20:45:41 ERROR CustomListener:28 - Test execution failed and taking screen shot: testSomething
+2023-01-09 20:45:41 ERROR CustomListener:28 - Test execution failed and taking screen shot: testSomething
+2023-01-09 20:47:41 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 20:47:44 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 20:47:44 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-09 20:47:44 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-09 20:47:44 INFO  WebDriverEvents:112 - Clicking on[[ChromeDriver: chrome on WINDOWS (15e0dbe34152f6cf6ccdec0a7cd8edcd)] -> css selector: li.dropdown span:first-of-type]
+2023-01-09 20:47:44 INFO  WebDriverEvents:119 - Clicked on[[ChromeDriver: chrome on WINDOWS (15e0dbe34152f6cf6ccdec0a7cd8edcd)] -> css selector: li.dropdown span:first-of-type]
+2023-01-09 20:47:44 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Login']
+2023-01-09 20:47:44 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Login']
+2023-01-09 20:47:44 INFO  WebDriverEvents:112 - Clicking on[[ChromeDriver: chrome on WINDOWS (15e0dbe34152f6cf6ccdec0a7cd8edcd)] -> xpath: //a[text()='Login']]
+2023-01-09 20:47:45 INFO  WebDriverEvents:119 - Clicked on[[ChromeDriver: chrome on WINDOWS (15e0dbe34152f6cf6ccdec0a7cd8edcd)] -> xpath: //a[text()='Login']]
+2023-01-09 20:47:45 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-email
+2023-01-09 20:47:45 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-email
+2023-01-09 20:47:45 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-password
+2023-01-09 20:47:45 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-password
+2023-01-09 20:47:45 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input.btn
+2023-01-09 20:47:45 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input.btn
+2023-01-09 20:47:45 INFO  WebDriverEvents:112 - Clicking on[[ChromeDriver: chrome on WINDOWS (15e0dbe34152f6cf6ccdec0a7cd8edcd)] -> css selector: input.btn]
+2023-01-09 20:47:46 INFO  WebDriverEvents:119 - Clicked on[[ChromeDriver: chrome on WINDOWS (15e0dbe34152f6cf6ccdec0a7cd8edcd)] -> css selector: input.btn]
+2023-01-09 20:47:46 INFO  CustomListener:17 - Test execution has started for: testSomething
+2023-01-09 20:47:46 ERROR CustomListener:28 - Test execution failed and taking screen shot: testSomething
+2023-01-09 20:47:46 ERROR CustomListener:28 - Test execution failed and taking screen shot: testSomething
+2023-01-09 20:54:34 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 20:54:36 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 20:54:37 INFO  CustomListener:17 - Test execution has started for: testSomething
+2023-01-09 20:54:37 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToAddProductsToWishList
+2023-01-09 22:31:04 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 22:31:13 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 22:31:13 INFO  CustomListener:17 - Test execution has started for: testSomething
+2023-01-09 22:31:13 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToAddProductsToWishList
+2023-01-09 23:01:47 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 23:01:55 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 23:01:55 INFO  CustomListener:17 - Test execution has started for: testSomething
+2023-01-09 23:01:55 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToAddProductsToWishList
+2023-01-09 23:07:30 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 23:07:33 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 23:07:33 INFO  CustomListener:17 - Test execution has started for: testSomething
+2023-01-09 23:07:33 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToAddProductsToWishList
+2023-01-09 23:08:53 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 23:08:56 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 23:08:56 INFO  CustomListener:17 - Test execution has started for: testSomething
+2023-01-09 23:08:56 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToAddProductsToWishList
+2023-01-09 23:09:45 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 23:09:48 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 23:09:48 INFO  CustomListener:17 - Test execution has started for: testSomething
+2023-01-09 23:09:48 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToAddProductsToWishList
+2023-01-09 23:11:37 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 23:11:41 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 23:11:41 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToAddProductsToWishList
+2023-01-09 23:20:31 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 23:20:34 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 23:20:34 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToAddProductsToWishList
+2023-01-09 23:21:28 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 23:21:31 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 23:31:30 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 23:31:37 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-09 23:31:37 INFO  CustomListener:17 - Test execution has started for: testSomething
+2023-01-09 23:31:37 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToAddProductsToWishList
