@@ -3,13 +3,20 @@
 <suite name="Suite">
 
 	<listeners>
-		<listener class-name="com.naveenautomation.Listener.CustomListener"></listener>
-		<listener class-name="com.naveenautomation.Report.ExtentReportListener"></listener>
+		<listener
+			class-name="com.naveenautomation.Listener.CustomListener"></listener>
+		<listener
+			class-name="com.naveenautomation.Report.ExtentReportListener"></listener>
+		<listener
+			class-name="com.naveenautomation.Utils.TransformerForRetryLogic"></listener>
+
 	</listeners>
+
+
 
 	<test thread-count="5" name="Test">
 		<classes>
-			<class name="com.naveenautomation.Test.MyWishListTest" />
+			<class name="com.naveenautomation.Test.AccountLoginTest" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->

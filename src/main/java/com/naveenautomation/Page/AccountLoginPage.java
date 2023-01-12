@@ -4,7 +4,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class AccountLoginPage extends com.naveenautomation.Base.TestBase {
+import com.naveenautomation.Base.TestBase;
+
+public class AccountLoginPage extends TestBase {
 
 	public AccountLoginPage() {
 		PageFactory.initElements(driver, this);
@@ -26,12 +28,18 @@ public class AccountLoginPage extends com.naveenautomation.Base.TestBase {
 	private void inputPassword(String pass) {
 		password.sendKeys(pass);
 	}
+	
+	public String getAccountLoginPageTitle() {
+		
+		return driver.getTitle();
+	}
+	
 
-	public YourStoreLaptopNoteBookPage clickLoginBtn(String email, String password) {
+	public MyAccountPage clickLoginBtn(String email, String password) {
 		inputEmail(email);
 		inputPassword(password);
 		loginBtn.click();
-		return new YourStoreLaptopNoteBookPage();
+		return new MyAccountPage();
 	}
 
 }

@@ -5,7 +5,7 @@ import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
-import com.naveenautomation.Test.TestBase;
+import com.naveenautomation.Base.TestBase;
 import com.naveenautomation.Utils.Utils;
 
 public class CustomListener extends TestBase implements ITestListener {

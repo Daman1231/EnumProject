@@ -8,30 +8,30 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
 
+import com.naveenautomation.Browser.Browser;
 import com.naveenautomation.Listener.WebDriverEvents;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class TestBase {
 
-	public WebDriver driver;
+	public static WebDriver driver;
+	public Browser DEFAULT_BROWSER = Browser.EDGE;
 	public static WebDriverEvents events;
 	public EventFiringWebDriver eventFiringWebDriver;
 
 	public void launchBrowser() {
 
-		String browserForTesting = "edge";
-
-		switch (browserForTesting) {
-		case "chrome":
+		switch (DEFAULT_BROWSER) {
+		case GOOGLE_CHROME:
 			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver();
 			break;
-		case "edge":
+		case EDGE:
 			WebDriverManager.edgedriver().setup();
 			driver = new EdgeDriver();
 			break;
-		case "firefox":
+		case FIREFOX:
 			WebDriverManager.firefoxdriver().setup();
 			driver = new FirefoxDriver();
 			break;

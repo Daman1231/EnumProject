@@ -11,7 +11,7 @@ import org.apache.commons.lang.RandomStringUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 
-import com.naveenautomation.Test.TestBase;
+import com.naveenautomation.Base.TestBase;
 
 public class Utils extends TestBase {
 
@@ -48,6 +48,7 @@ public class Utils extends TestBase {
 	public static void takeScreenShot(String testName) {
 		String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());
 		File screenshotFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+
 		try {
 			FileUtils.copyFile(screenshotFile, new File("./FailedScreenShots\\" + testName + "_" + timeStamp + ".jpg"));
 		} catch (IOException e) {
