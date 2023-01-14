@@ -21,6 +21,13 @@ public class AccountLoginPage extends TestBase {
 	@FindBy(css = "input.btn")
 	WebElement loginBtn;
 
+	@FindBy(css = "div.alert")
+	WebElement alertBanner;
+
+	public String verifyalertTextBanner() {
+		return alertBanner.getText();
+	}
+
 	private void inputEmail(String email) {
 		EmailId.sendKeys(email);
 	}
@@ -28,14 +35,12 @@ public class AccountLoginPage extends TestBase {
 	private void inputPassword(String pass) {
 		password.sendKeys(pass);
 	}
-	
+
 	public String getAccountLoginPageTitle() {
-		
 		return driver.getTitle();
 	}
-	
 
-	public MyAccountPage clickLoginBtn(String email, String password) {
+	public MyAccountPage clickLoginButton(String email, String password) {
 		inputEmail(email);
 		inputPassword(password);
 		loginBtn.click();

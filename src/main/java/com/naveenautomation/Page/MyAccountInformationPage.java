@@ -19,16 +19,20 @@ public class MyAccountInformationPage extends TestBase {
 
 	@FindBy(css = "#input-lastname")
 	WebElement lastName;
-	
+
 	@FindBy(css = "#input-email")
 	WebElement email;
-	
+
 	@FindBy(css = "#input-telephone")
 	WebElement telePhone;
+
+	@FindBy(css = "input.btn")
+	WebElement continueBtn;
 
 	public String getMyAccountInformationText() {
 		return myAccountInformationText.getText();
 	}
+
 	public String getFirstName() {
 		return firstName.getAttribute("value");
 	}
@@ -43,6 +47,17 @@ public class MyAccountInformationPage extends TestBase {
 
 	public String getTelephone() {
 		return telePhone.getAttribute("value");
+	}
+
+	private void inputPhoneNumber(String number) {
+		telePhone.clear();
+		telePhone.sendKeys(number);
+	}
+
+	public MyAccountPage clickContinueBtn(String phoneNumber) {
+		inputPhoneNumber(phoneNumber);
+		continueBtn.click();
+		return new MyAccountPage();
 	}
 
 }

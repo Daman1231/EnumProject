@@ -8,31 +8,84 @@
 <body>
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
-<tr><th colspan="8">Suite</th></tr>
-<tr><td><a href="#t0">Test</a></td><td class="num">5</td><td class="num">0</td><td class="num attn">3</td><td class="num attn">1</td><td class="num">67,037</td><td></td><td></td></tr>
+<tr><th colspan="8">Default suite</th></tr>
+<tr><td><a href="#t0">Default test</a></td><td class="num">7</td><td class="num">0</td><td class="num">0</td><td class="num attn">2</td><td class="num">83,234</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.naveenautomation.Test.AccountLoginTest</td><td><a href="#m0">testSomething</a></td><td rowspan="1">1673486120980</td><td rowspan="1">288</td></tr><tr><th colspan="4">Test &#8212; retried</th></tr><tr class="retriedeven"><td rowspan="3">com.naveenautomation.Test.AccountLoginTest</td><td><a href="#m1">testSomething</a></td><td rowspan="3">1673486105651</td><td rowspan="3">266</td></tr><tr class="retriedeven"><td><a href="#m2">testSomething</a></td></tr><tr class="retriedeven"><td><a href="#m3">testSomething</a></td></tr><tr><th colspan="4">Test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="5">com.naveenautomation.Test.AccountLoginTest</td><td><a href="#m4">loginVerify</a></td><td rowspan="5">1673486064847</td><td rowspan="5">3093</td></tr><tr class="passedeven"><td><a href="#m5">loginVerify</a></td></tr><tr class="passedeven"><td><a href="#m6">loginVerify</a></td></tr><tr class="passedeven"><td><a href="#m7">loginVerify</a></td></tr><tr class="passedeven"><td><a href="#m8">loginVerify</a></td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Default suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Default test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="2">com.naveenautomation.Test.AccountLoginTest</td><td><a href="#m0">testSomething</a></td><td rowspan="1">1673719909361</td><td rowspan="1">354</td></tr><tr class="failedeven"><td><a href="#m1">verifyUSerIsAbleToEditAddress</a></td><td rowspan="1">1673719930606</td><td rowspan="1">2082</td></tr><tr><th colspan="4">Default test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="7">com.naveenautomation.Test.AccountLoginTest</td><td><a href="#m2">loginVerify</a></td><td rowspan="5">1673719878688</td><td rowspan="5">3267</td></tr><tr class="passedeven"><td><a href="#m3">loginVerify</a></td></tr><tr class="passedeven"><td><a href="#m4">loginVerify</a></td></tr><tr class="passedeven"><td><a href="#m5">loginVerify</a></td></tr><tr class="passedeven"><td><a href="#m6">loginVerify</a></td></tr><tr class="passedeven"><td><a href="#m7">verifyAlertBannerCredential</a></td><td rowspan="1">1673719915712</td><td rowspan="1">1256</td></tr><tr class="passedeven"><td><a href="#m8">verifyLogin</a></td><td rowspan="1">1673719923344</td><td rowspan="1">1397</td></tr></tbody>
 </table>
-<h2>Test</h2><h3 id="m0">com.naveenautomation.Test.AccountLoginTest#testSomething</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: expected [true] but found [false]
-	at com.naveenautomation.Test.AccountLoginTest.testSomething(AccountLoginTest.java:51)
+<h2>Default test</h2><h3 id="m0">com.naveenautomation.Test.AccountLoginTest#testSomething</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertTrue(Assert.java:45)
+	at org.testng.Assert.assertTrue(Assert.java:55)
+	at com.naveenautomation.Test.AccountLoginTest.testSomething(AccountLoginTest.java:79)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 31 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">com.naveenautomation.Test.AccountLoginTest#testSomething</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: expected [true] but found [false]
-	at com.naveenautomation.Test.AccountLoginTest.testSomething(AccountLoginTest.java:51)
+	at org.testng.TestRunner.privateRun(TestRunner.java:764)
+	at org.testng.TestRunner.run(TestRunner.java:585)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+	at org.testng.TestNG.runSuites(TestNG.java:1069)
+	at org.testng.TestNG.run(TestNG.java:1037)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">com.naveenautomation.Test.AccountLoginTest#verifyUSerIsAbleToEditAddress</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.NullPointerException: Cannot invoke &quot;org.openqa.selenium.WebElement.click()&quot; because the return value of &quot;com.naveenautomation.Page.AddressBookPage.getEditButton(String)&quot; is null
+	at com.naveenautomation.Page.AddressBookPage.editAddressBook(AddressBookPage.java:85)
+	at com.naveenautomation.Test.AccountLoginTest.verifyUSerIsAbleToEditAddress(AccountLoginTest.java:52)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 31 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m2">com.naveenautomation.Test.AccountLoginTest#testSomething</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: expected [true] but found [false]
-	at com.naveenautomation.Test.AccountLoginTest.testSomething(AccountLoginTest.java:51)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 31 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m3">com.naveenautomation.Test.AccountLoginTest#testSomething</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: expected [true] but found [false]
-	at com.naveenautomation.Test.AccountLoginTest.testSomething(AccountLoginTest.java:51)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 31 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m4">com.naveenautomation.Test.AccountLoginTest#loginVerify</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th><th>Parameter #5</th><th>Parameter #6</th></tr><tr class="param stripe"><td>iron.man@gmail.com</td><td>Password2</td><td>Tony</td><td>Stark</td><td>iron.man@gmail.com</td><td>1123456780</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m5">com.naveenautomation.Test.AccountLoginTest#loginVerify</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th><th>Parameter #5</th><th>Parameter #6</th></tr><tr class="param stripe"><td>sg1@gmail.com</td><td>Admin@123</td><td>Sahib</td><td>New</td><td>Sg1@gmail.com</td><td>5146217769</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m6">com.naveenautomation.Test.AccountLoginTest#loginVerify</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th><th>Parameter #5</th><th>Parameter #6</th></tr><tr class="param stripe"><td>Navjot.rehal12@gmail.com</td><td>Navjot13</td><td>Navjot</td><td>Singh</td><td>Navjot.rehal12@gmail.com</td><td>4372174449</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m7">com.naveenautomation.Test.AccountLoginTest#loginVerify</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th><th>Parameter #5</th><th>Parameter #6</th></tr><tr class="param stripe"><td>neethu123@gmail.com</td><td>password@01</td><td>Neethu</td><td>Manu</td><td>neethu123@gmail.com</td><td>9876543210</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m8">com.naveenautomation.Test.AccountLoginTest#loginVerify</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th><th>Parameter #5</th><th>Parameter #6</th></tr><tr class="param stripe"><td>harinder21@gmail.com</td><td>Password1</td><td>Harinder</td><td>Kaur</td><td>Harinder21@gmail.com</td><td>780298456</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+	at org.testng.TestRunner.privateRun(TestRunner.java:764)
+	at org.testng.TestRunner.run(TestRunner.java:585)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+	at org.testng.TestNG.runSuites(TestNG.java:1069)
+	at org.testng.TestNG.run(TestNG.java:1037)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">com.naveenautomation.Test.AccountLoginTest#loginVerify</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th><th>Parameter #5</th><th>Parameter #6</th></tr><tr class="param stripe"><td>Navjot.rehal12@gmail.com</td><td>Navjot13</td><td>Navjot</td><td>Singh</td><td>Navjot.rehal12@gmail.com</td><td>4372174449</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">com.naveenautomation.Test.AccountLoginTest#loginVerify</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th><th>Parameter #5</th><th>Parameter #6</th></tr><tr class="param stripe"><td>iron.man@gmail.com</td><td>Password2</td><td>Tony</td><td>Stark</td><td>iron.man@gmail.com</td><td>1123456780</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">com.naveenautomation.Test.AccountLoginTest#loginVerify</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th><th>Parameter #5</th><th>Parameter #6</th></tr><tr class="param stripe"><td>sg1@gmail.com</td><td>Admin@123</td><td>Sahib</td><td>New</td><td>Sg1@gmail.com</td><td>5146217769</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m5">com.naveenautomation.Test.AccountLoginTest#loginVerify</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th><th>Parameter #5</th><th>Parameter #6</th></tr><tr class="param stripe"><td>neethu123@gmail.com</td><td>password@01</td><td>Neethu</td><td>Manu</td><td>neethu123@gmail.com</td><td>9876543210</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m6">com.naveenautomation.Test.AccountLoginTest#loginVerify</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th><th>Parameter #5</th><th>Parameter #6</th></tr><tr class="param stripe"><td>harinder21@gmail.com</td><td>Password1</td><td>Harinder</td><td>Kaur</td><td>Harinder21@gmail.com</td><td>780298456</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m7">com.naveenautomation.Test.AccountLoginTest#verifyAlertBannerCredential</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m8">com.naveenautomation.Test.AccountLoginTest#verifyLogin</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

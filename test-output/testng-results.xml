@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results retried="3" ignored="0" total="9" passed="5" failed="1" skipped="0">
+<testng-results ignored="0" total="9" passed="7" failed="2" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-11T20:14:17 EST" name="Suite" finished-at="2023-01-11T20:15:24 EST" duration-ms="67037">
+  <suite started-at="2023-01-14T13:10:49 EST" name="Default suite" finished-at="2023-01-14T13:12:13 EST" duration-ms="83234">
     <groups>
     </groups>
-    <test started-at="2023-01-11T20:14:17 EST" name="Test" finished-at="2023-01-11T20:15:24 EST" duration-ms="67037">
+    <test started-at="2023-01-14T13:10:49 EST" name="Default test" finished-at="2023-01-14T13:12:13 EST" duration-ms="83234">
       <class name="com.naveenautomation.Test.AccountLoginTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:14:19 EST" name="setUp" finished-at="2023-01-11T20:14:24 EST" duration-ms="5479" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:10:51 EST" name="setUp" finished-at="2023-01-14T13:10:59 EST" duration-ms="7095" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginVerify(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:14:24 EST" name="loginVerify" data-provider="LoginDataProvider" finished-at="2023-01-11T20:14:27 EST" duration-ms="3093" status="PASS">
+        <test-method signature="loginVerify(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:10:59 EST" name="loginVerify" data-provider="LoginDataProvider" finished-at="2023-01-14T13:11:02 EST" duration-ms="3717" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -47,15 +47,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginVerify -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:14:27 EST" name="tearDown" finished-at="2023-01-11T20:14:28 EST" duration-ms="458" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:11:02 EST" name="tearDown" finished-at="2023-01-14T13:11:03 EST" duration-ms="473" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:14:28 EST" name="setUp" finished-at="2023-01-11T20:14:32 EST" duration-ms="4280" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:11:03 EST" name="setUp" finished-at="2023-01-14T13:11:08 EST" duration-ms="5464" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginVerify(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:14:32 EST" name="loginVerify" data-provider="LoginDataProvider" finished-at="2023-01-11T20:14:35 EST" duration-ms="2997" status="PASS">
+        <test-method signature="loginVerify(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:11:08 EST" name="loginVerify" data-provider="LoginDataProvider" finished-at="2023-01-14T13:11:12 EST" duration-ms="3770" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -91,15 +91,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginVerify -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:14:35 EST" name="tearDown" finished-at="2023-01-11T20:14:36 EST" duration-ms="486" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:11:12 EST" name="tearDown" finished-at="2023-01-14T13:11:13 EST" duration-ms="496" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:14:36 EST" name="setUp" finished-at="2023-01-11T20:14:40 EST" duration-ms="4653" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:11:13 EST" name="setUp" finished-at="2023-01-14T13:11:18 EST" duration-ms="5682" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginVerify(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:14:40 EST" name="loginVerify" data-provider="LoginDataProvider" finished-at="2023-01-11T20:14:43 EST" duration-ms="2866" status="PASS">
+        <test-method signature="loginVerify(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:11:18 EST" name="loginVerify" data-provider="LoginDataProvider" finished-at="2023-01-14T13:11:21 EST" duration-ms="3267" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -135,15 +135,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginVerify -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:14:43 EST" name="tearDown" finished-at="2023-01-11T20:14:44 EST" duration-ms="417" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:11:21 EST" name="tearDown" finished-at="2023-01-14T13:11:22 EST" duration-ms="380" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:14:44 EST" name="setUp" finished-at="2023-01-11T20:14:48 EST" duration-ms="4171" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:11:22 EST" name="setUp" finished-at="2023-01-14T13:11:27 EST" duration-ms="5590" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginVerify(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:14:48 EST" name="loginVerify" data-provider="LoginDataProvider" finished-at="2023-01-11T20:14:51 EST" duration-ms="2771" status="PASS">
+        <test-method signature="loginVerify(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:11:27 EST" name="loginVerify" data-provider="LoginDataProvider" finished-at="2023-01-14T13:11:32 EST" duration-ms="4290" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -179,15 +179,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginVerify -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:14:51 EST" name="tearDown" finished-at="2023-01-11T20:14:51 EST" duration-ms="441" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:11:32 EST" name="tearDown" finished-at="2023-01-14T13:11:32 EST" duration-ms="491" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:14:51 EST" name="setUp" finished-at="2023-01-11T20:14:55 EST" duration-ms="4369" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:11:32 EST" name="setUp" finished-at="2023-01-14T13:11:39 EST" duration-ms="6856" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginVerify(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:14:55 EST" name="loginVerify" data-provider="LoginDataProvider" finished-at="2023-01-11T20:14:59 EST" duration-ms="3552" status="PASS">
+        <test-method signature="loginVerify(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:11:39 EST" name="loginVerify" data-provider="LoginDataProvider" finished-at="2023-01-14T13:11:43 EST" duration-ms="4077" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -223,15 +223,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginVerify -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:14:59 EST" name="tearDown" finished-at="2023-01-11T20:15:00 EST" duration-ms="1049" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:11:43 EST" name="tearDown" finished-at="2023-01-14T13:11:44 EST" duration-ms="488" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:15:00 EST" name="setUp" finished-at="2023-01-11T20:15:05 EST" duration-ms="5138" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:11:44 EST" name="setUp" finished-at="2023-01-14T13:11:49 EST" duration-ms="5219" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method retried="true" signature="testSomething()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:15:05 EST" name="testSomething" finished-at="2023-01-11T20:15:05 EST" duration-ms="266" status="SKIP">
+        <test-method signature="testSomething()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:11:49 EST" name="testSomething" finished-at="2023-01-14T13:11:49 EST" duration-ms="354" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -242,7 +242,7 @@ at org.testng.Assert.fail(Assert.java:99)
 at org.testng.Assert.failNotEquals(Assert.java:1037)
 at org.testng.Assert.assertTrue(Assert.java:45)
 at org.testng.Assert.assertTrue(Assert.java:55)
-at com.naveenautomation.Test.AccountLoginTest.testSomething(AccountLoginTest.java:51)
+at com.naveenautomation.Test.AccountLoginTest.testSomething(AccountLoginTest.java:79)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -277,34 +277,55 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSomething -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:15:05 EST" name="tearDown" finished-at="2023-01-11T20:15:06 EST" duration-ms="543" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:11:49 EST" name="tearDown" finished-at="2023-01-14T13:11:50 EST" duration-ms="592" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:15:06 EST" name="setUp" finished-at="2023-01-11T20:15:10 EST" duration-ms="4300" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:11:50 EST" name="setUp" finished-at="2023-01-14T13:11:55 EST" duration-ms="5396" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method retried="true" signature="testSomething()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:15:10 EST" name="testSomething" finished-at="2023-01-11T20:15:11 EST" duration-ms="330" status="SKIP">
-          <exception class="java.lang.AssertionError">
+        <test-method signature="verifyAlertBannerCredential()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:11:55 EST" name="verifyAlertBannerCredential" finished-at="2023-01-14T13:11:56 EST" duration-ms="1256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAlertBannerCredential -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:11:56 EST" name="tearDown" finished-at="2023-01-14T13:11:57 EST" duration-ms="533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:11:57 EST" name="setUp" finished-at="2023-01-14T13:12:03 EST" duration-ms="5840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLogin()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:12:03 EST" name="verifyLogin" finished-at="2023-01-14T13:12:04 EST" duration-ms="1397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:12:04 EST" name="tearDown" finished-at="2023-01-14T13:12:05 EST" duration-ms="470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:12:05 EST" name="setUp" finished-at="2023-01-14T13:12:10 EST" duration-ms="5392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyUSerIsAbleToEditAddress()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:12:10 EST" name="verifyUSerIsAbleToEditAddress" finished-at="2023-01-14T13:12:12 EST" duration-ms="2082" status="FAIL">
+          <exception class="java.lang.NullPointerException">
             <message>
-              <![CDATA[expected [true] but found [false]]]>
+              <![CDATA[Cannot invoke "org.openqa.selenium.WebElement.click()" because the return value of "com.naveenautomation.Page.AddressBookPage.getEditButton(String)" is null]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
-at org.testng.Assert.fail(Assert.java:99)
-at org.testng.Assert.failNotEquals(Assert.java:1037)
-at org.testng.Assert.assertTrue(Assert.java:45)
-at org.testng.Assert.assertTrue(Assert.java:55)
-at com.naveenautomation.Test.AccountLoginTest.testSomething(AccountLoginTest.java:51)
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.click()" because the return value of "com.naveenautomation.Page.AddressBookPage.getEditButton(String)" is null
+at com.naveenautomation.Page.AddressBookPage.editAddressBook(AddressBookPage.java:85)
+at com.naveenautomation.Test.AccountLoginTest.verifyUSerIsAbleToEditAddress(AccountLoginTest.java:52)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
 at java.base/java.lang.reflect.Method.invoke(Method.java:568)
 at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
 at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
-at org.testng.internal.TestInvoker.retryFailed(TestInvoker.java:214)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:58)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
 at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
 at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
 at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
@@ -327,123 +348,15 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
+          </exception> <!-- java.lang.NullPointerException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testSomething -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:15:11 EST" name="tearDown" finished-at="2023-01-11T20:15:11 EST" duration-ms="656" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:15:11 EST" name="setUp" finished-at="2023-01-11T20:15:16 EST" duration-ms="4272" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method retried="true" signature="testSomething()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:15:16 EST" name="testSomething" finished-at="2023-01-11T20:15:16 EST" duration-ms="267" status="SKIP">
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[expected [true] but found [false]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
-at org.testng.Assert.fail(Assert.java:99)
-at org.testng.Assert.failNotEquals(Assert.java:1037)
-at org.testng.Assert.assertTrue(Assert.java:45)
-at org.testng.Assert.assertTrue(Assert.java:55)
-at com.naveenautomation.Test.AccountLoginTest.testSomething(AccountLoginTest.java:51)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
-at org.testng.internal.TestInvoker.retryFailed(TestInvoker.java:214)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:58)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:764)
-at org.testng.TestRunner.run(TestRunner.java:585)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
-at org.testng.SuiteRunner.run(SuiteRunner.java:286)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
-at org.testng.TestNG.runSuites(TestNG.java:1069)
-at org.testng.TestNG.run(TestNG.java:1037)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testSomething -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:15:16 EST" name="tearDown" finished-at="2023-01-11T20:15:16 EST" duration-ms="458" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:15:16 EST" name="setUp" finished-at="2023-01-11T20:15:20 EST" duration-ms="4221" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="testSomething()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:15:20 EST" name="testSomething" finished-at="2023-01-11T20:15:21 EST" duration-ms="288" status="FAIL">
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[expected [true] but found [false]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
-at org.testng.Assert.fail(Assert.java:99)
-at org.testng.Assert.failNotEquals(Assert.java:1037)
-at org.testng.Assert.assertTrue(Assert.java:45)
-at org.testng.Assert.assertTrue(Assert.java:55)
-at com.naveenautomation.Test.AccountLoginTest.testSomething(AccountLoginTest.java:51)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
-at org.testng.internal.TestInvoker.retryFailed(TestInvoker.java:214)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:58)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:764)
-at org.testng.TestRunner.run(TestRunner.java:585)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
-at org.testng.SuiteRunner.run(SuiteRunner.java:286)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
-at org.testng.TestNG.runSuites(TestNG.java:1069)
-at org.testng.TestNG.run(TestNG.java:1037)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testSomething -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@7bba5817]" started-at="2023-01-11T20:15:24 EST" name="tearDown" finished-at="2023-01-11T20:15:24 EST" duration-ms="485" status="PASS">
+        </test-method> <!-- verifyUSerIsAbleToEditAddress -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.naveenautomation.Test.AccountLoginTest@649bec2e]" started-at="2023-01-14T13:12:12 EST" name="tearDown" finished-at="2023-01-14T13:12:13 EST" duration-ms="438" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.naveenautomation.Test.AccountLoginTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

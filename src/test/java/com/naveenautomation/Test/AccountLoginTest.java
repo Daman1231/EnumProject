@@ -11,19 +11,47 @@ import org.testng.asserts.SoftAssert;
 
 import com.naveenautomation.Base.TestBase;
 import com.naveenautomation.Page.AccountLoginPage;
+import com.naveenautomation.Page.AddressBookPage;
 import com.naveenautomation.Page.MyAccountInformationPage;
 import com.naveenautomation.Page.MyAccountPage;
 import com.naveenautomation.Page.YourStorePage;
 import com.naveenautomation.Utils.ExcelUtils;
 
 public class AccountLoginTest extends TestBase {
-
+	YourStorePage yourStoreLoginPage;
+	AccountLoginPage accountLoginPage;
+	MyAccountPage myAccountPage;
 	SoftAssert sf;
 
 	@BeforeMethod
 	public void setUp() {
 		launchBrowser();
+		yourStoreLoginPage = new YourStorePage();
+		accountLoginPage = yourStoreLoginPage.clickLoginBtn();
+		
 		sf = new SoftAssert();
+	}
+
+	@Test
+	public void verifyLogin() {
+		myAccountPage = accountLoginPage.clickLoginButton("daman@gmail.com", "Daman1231");
+		sf.assertEquals(myAccountPage.getMyAccountText(), "My Account", "Login failed");
+	}
+
+	@Test
+	public void verifyAlertBannerCredential() {
+		myAccountPage = accountLoginPage.clickLoginButton("daman@gmail.com", "Daman12312");
+		sf.assertEquals(accountLoginPage.verifyalertTextBanner(),
+				" Warning: No match for E-Mail Address and/or Password.", "Alert text does'nt match");
+	}
+
+	@Test
+	public void verifyUSerIsAbleToEditAddress() {
+		myAccountPage = accountLoginPage.clickLoginButton("daman@gmail.com", "Daman1231");
+		AddressBookPage addressBookPage = myAccountPage.clickAddressBook();
+		addressBookPage.editAddressBook("L6S 1R3");
+		sf.assertEquals(addressBookPage.addressAlertSuccessText(), "Your address has been successfully updated",
+				"Address Change Unsuccesfull...");
 
 	}
 
@@ -33,7 +61,7 @@ public class AccountLoginTest extends TestBase {
 		YourStorePage yourStorePage = new YourStorePage();
 		AccountLoginPage accountLoginPage = yourStorePage.clickLoginBtn();
 		sf.assertEquals(accountLoginPage.getAccountLoginPageTitle(), "Account Login", "Invalid Page!");
-		MyAccountPage myAccountPage = accountLoginPage.clickLoginBtn(userName, password);
+		MyAccountPage myAccountPage = accountLoginPage.clickLoginButton(userName, password);
 		sf.assertEquals(myAccountPage.getMyAccountText(), "My Account", "Login Failed!");
 		MyAccountInformationPage accountInformation = myAccountPage.editYourAccountInformation();
 		sf.assertEquals(accountInformation.getMyAccountInformationText(), "My Account Information",
@@ -42,7 +70,7 @@ public class AccountLoginTest extends TestBase {
 		sf.assertEquals(accountInformation.getLastName(), lName, "Last Name did not matched");
 		sf.assertEquals(accountInformation.getEmail(), emailId, "Email did not matched");
 		sf.assertEquals(accountInformation.getTelephone(), telephone, "Telephone did not matched");
-
+		sf.assertAll();
 	}
 
 	@Test

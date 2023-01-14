@@ -8,6 +8,7 @@
           <include name="testSomething"/>
           <include name="tearDown"/>
           <include name="setUp"/>
+          <include name="verifyUSerIsAbleToEditAddress"/>
         </methods>
       </class> <!-- com.naveenautomation.Test.AccountLoginTest -->
     </classes>

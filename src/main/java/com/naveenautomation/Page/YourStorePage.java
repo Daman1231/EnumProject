@@ -15,12 +15,25 @@ public class YourStorePage extends com.naveenautomation.Base.TestBase {
 	@FindBy(xpath = "//a[text()='Login']")
 	WebElement login;
 
+	@FindBy(xpath = "//a[text()='Register']")
+	WebElement register;
+
+	private void clickRegister() {
+		register.click();
+	}
+
 	private void clickMyAccount() {
 		myAccount.click();
 	}
 
 	private void clickLogin() {
 		login.click();
+	}
+
+	public RegisterAccountPage clickRegisterBtn() {
+		clickMyAccount();
+		clickRegister();
+		return new RegisterAccountPage();
 	}
 
 	public AccountLoginPage clickLoginBtn() {
