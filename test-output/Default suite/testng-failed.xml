@@ -5,10 +5,9 @@
     <classes>
       <class name="com.naveenautomation.Test.AccountLoginTest">
         <methods>
-          <include name="testSomething"/>
+          <include name="verifyLogin"/>
           <include name="tearDown"/>
           <include name="setUp"/>
-          <include name="verifyUSerIsAbleToEditAddress"/>
         </methods>
       </class> <!-- com.naveenautomation.Test.AccountLoginTest -->
     </classes>
