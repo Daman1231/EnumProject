@@ -40,7 +40,7 @@ public class AccountLoginTest extends TestBase {
 
 	@Test
 	public void verifyAlertBannerCredential() {
-		myAccountPage = accountLoginPage.clickLoginButton("daman@gmail.com", "Daman12312");
+		myAccountPage = accountLoginPage.clickLoginButton("daman@gmail.com", "Daman1231");
 		sf.assertEquals(accountLoginPage.verifyalertTextBanner(),
 				" Warning: No match for E-Mail Address and/or Password.", "Alert text does'nt match");
 	}
@@ -75,7 +75,7 @@ public class AccountLoginTest extends TestBase {
 
 	@Test
 	public void testSomething() {
-		driver.get("https://www.bing.com/");
+		local.get().get("https://www.bing.com/");
 		Assert.assertTrue(false);
 
 	}

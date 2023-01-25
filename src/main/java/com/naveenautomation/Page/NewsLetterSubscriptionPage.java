@@ -6,7 +6,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class NewsLetterSubscriptionPage extends com.naveenautomation.Base.TestBase {
 	public NewsLetterSubscriptionPage() {
-		PageFactory.initElements(driver, this);
+		PageFactory.initElements(local.get(), this);
 	}
 
 	@FindBy(css = "label.radio-inline:first-of-type input")

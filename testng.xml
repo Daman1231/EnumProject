@@ -14,7 +14,7 @@
 
 
 
-	<test thread-count="10" name="Test">
+	<test thread-count="5" name="Test">
 		<classes>
 			<class name="com.naveenautomation.Test.AccountLoginTest" />
 			<class name="com.naveenautomation.Test.AccountLogoutTest" />

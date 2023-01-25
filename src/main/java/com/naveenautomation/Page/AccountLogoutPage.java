@@ -6,7 +6,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class AccountLogoutPage extends com.naveenautomation.Base.TestBase {
 	public AccountLogoutPage() {
-		PageFactory.initElements(driver, this);
+		PageFactory.initElements(local.get(), this);
 	}
 
 	@FindBy(css = "#content h1")

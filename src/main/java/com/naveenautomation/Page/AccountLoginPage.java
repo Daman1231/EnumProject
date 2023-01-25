@@ -9,7 +9,7 @@ import com.naveenautomation.Base.TestBase;
 public class AccountLoginPage extends TestBase {
 
 	public AccountLoginPage() {
-		PageFactory.initElements(driver, this);
+		PageFactory.initElements(local.get(), this);
 	}
 
 	@FindBy(css = "#input-email")
@@ -37,7 +37,7 @@ public class AccountLoginPage extends TestBase {
 	}
 
 	public String getAccountLoginPageTitle() {
-		return driver.getTitle();
+		return local.get().getTitle();
 	}
 
 	public MyAccountPage clickLoginButton(String email, String password) {

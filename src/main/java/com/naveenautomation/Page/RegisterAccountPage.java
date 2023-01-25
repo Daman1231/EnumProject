@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 public class RegisterAccountPage extends com.naveenautomation.Base.TestBase {
 
 	public RegisterAccountPage() {
-		PageFactory.initElements(driver, this);
+		PageFactory.initElements(local.get(), this);
 	}
 
 	@FindBy(css = "#input-firstname")

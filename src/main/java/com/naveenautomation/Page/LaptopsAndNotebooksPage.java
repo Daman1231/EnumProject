@@ -9,7 +9,7 @@ import com.naveenautomation.Base.TestBase;
 public class LaptopsAndNotebooksPage extends TestBase {
 
 	public LaptopsAndNotebooksPage() {
-		PageFactory.initElements(driver, this);
+		PageFactory.initElements(local.get(), this);
 	}
 
 	@FindBy(css = "#input-sort")

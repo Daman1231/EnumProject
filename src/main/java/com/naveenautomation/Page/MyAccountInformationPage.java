@@ -8,7 +8,7 @@ import com.naveenautomation.Base.TestBase;
 
 public class MyAccountInformationPage extends TestBase {
 	public MyAccountInformationPage() {
-		PageFactory.initElements(driver, this);
+		PageFactory.initElements(local.get(), this);
 	}
 
 	@FindBy(css = "#content h1")

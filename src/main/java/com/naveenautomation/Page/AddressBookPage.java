@@ -11,7 +11,7 @@ import com.naveenautomation.Base.TestBase;
 
 public class AddressBookPage extends TestBase {
 	public AddressBookPage() {
-		PageFactory.initElements(driver, this);
+		PageFactory.initElements(local.get(), this);
 	}
 
 	@FindBy(css = ("div.alert"))
@@ -95,7 +95,7 @@ public class AddressBookPage extends TestBase {
 	}
 
 	public WebElement getEditButton(String postalCode) {
-		List<WebElement> rowsInTable = driver.findElements(By.cssSelector("tbody tr"));
+		List<WebElement> rowsInTable = local.get().findElements(By.cssSelector("tbody tr"));
 		for (int i = 0; i < rowsInTable.size(); i++) {
 			List<WebElement> cellsInEachRow = rowsInTable.get(i).findElements(By.cssSelector("td"));
 			String address = cellsInEachRow.get(0).getText();

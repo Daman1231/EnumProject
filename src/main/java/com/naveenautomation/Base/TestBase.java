@@ -20,6 +20,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class TestBase {
 
+	public static ThreadLocal<WebDriver> local = new ThreadLocal<>();
+
 	public static WebDriver driver;
 	public Browser DEFAULT_BROWSER = Browser.GOOGLE_CHROME;
 	public static WebDriverEvents events;
@@ -27,7 +29,6 @@ public class TestBase {
 	DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
 
 	public void launchBrowser() {
-
 		desiredCapabilities.setBrowserName("chrome");
 		desiredCapabilities.setPlatform(Platform.WINDOWS);
 		desiredCapabilities.setVersion("109.0.5414.74");
@@ -60,20 +61,20 @@ public class TestBase {
 			break;
 		}
 
-		eventFiringWebDriver = new EventFiringWebDriver(driver);
+		eventFiringWebDriver = new EventFiringWebDriver(local.get());
 		events = new WebDriverEvents();
 		eventFiringWebDriver.register(events);
 		driver = eventFiringWebDriver;
-
-		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-		driver.manage().window().maximize();
-		driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
-		driver.manage().timeouts().setScriptTimeout(60, TimeUnit.SECONDS);
-		driver.get("https://naveenautomationlabs.com/opencart/index.php?route=common/home");
+		local.set(local.get());
+		local.get().manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		local.get().manage().window().maximize();
+		local.get().manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
+		local.get().manage().timeouts().setScriptTimeout(60, TimeUnit.SECONDS);
+		local.get().get("https://naveenautomationlabs.com/opencart/index.php?route=common/home");
 	}
 
 	public void quitBrowser() {
-		driver.quit();
+		local.get().quit();
 	}
 
 }

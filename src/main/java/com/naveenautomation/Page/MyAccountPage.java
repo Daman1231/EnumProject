@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 public class MyAccountPage extends com.naveenautomation.Base.TestBase {
 
 	public MyAccountPage() {
-		PageFactory.initElements(driver, this);
+		PageFactory.initElements(local.get(), this);
 	}
 
 	@FindBy(xpath = "//a[text()=\"Edit your account information\"]")

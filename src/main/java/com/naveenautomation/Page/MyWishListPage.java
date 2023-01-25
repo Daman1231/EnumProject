@@ -12,7 +12,7 @@ import com.naveenautomation.Base.TestBase;
 public class MyWishListPage extends TestBase {
 
 	public MyWishListPage() {
-		PageFactory.initElements(driver, this);
+		PageFactory.initElements(local.get(), this);
 	}
 
 	@FindBy(css = "#content h2")
@@ -38,7 +38,7 @@ public class MyWishListPage extends TestBase {
 	
 	public WebElement getElementFromTheTable(String ProductName, MyWishList column) {
 		int columnIndex = getIndexForColumn(column);
-		List<WebElement> rowsInTable = driver.findElements(By.cssSelector("table.table tbody tr"));
+		List<WebElement> rowsInTable = local.get().findElements(By.cssSelector("table.table tbody tr"));
 		for (WebElement webElement : rowsInTable) {
 			List<WebElement> cells = webElement.findElements(By.cssSelector("td"));
 			String ProductNameText = cells.get(1).getText();
@@ -51,7 +51,7 @@ public class MyWishListPage extends TestBase {
 	}
 
 	public int getIndexForColumn(MyWishList column) {
-		List<WebElement> tableHeaders = driver.findElements(By.cssSelector("table.table thead tr td"));
+		List<WebElement> tableHeaders = local.get().findElements(By.cssSelector("table.table thead tr td"));
 		for (WebElement webElement : tableHeaders) {
 			if (webElement.getText().equals(column.getName())) {
 				return tableHeaders.indexOf(webElement);

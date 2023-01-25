@@ -36,7 +36,7 @@ public class ExtentReportListener extends TestListenerAdapter{
 		extent = new ExtentReports();
 		extent.attachReporter(sparkReporter);
 		extent.setSystemInfo("Name of the host", "Localhost");
-		extent.setSystemInfo("Tester Name", "Daman");
+		extent.setSystemInfo("Tester Name", "Daman");		
 		extent.setSystemInfo("Env", "Prod");
 
 	}

@@ -6,7 +6,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class YourStorePage extends com.naveenautomation.Base.TestBase {
 	public YourStorePage() {
-		PageFactory.initElements(driver, this);
+		PageFactory.initElements(local.get(), this);
 	}
 
 	@FindBy(css = "li.dropdown span:first-of-type")
