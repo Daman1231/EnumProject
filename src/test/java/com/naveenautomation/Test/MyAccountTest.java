@@ -27,7 +27,7 @@ public class MyAccountTest extends com.naveenautomation.Base.TestBase {
 	@Test
 	public void verifyUserIsAbleToChangePhoneNumberOnceLoggedIn() {
 		com.naveenautomation.Page.MyAccountInformationPage myAccountInfo = myAccountPage.clickEditAccountInfo();
-		myAccountPage = myAccountInfo.clickContinueBtn("6474020540");
+		myAccountPage = myAccountInfo.clickContinueBtn("6474020549");
 		Assert.assertEquals(myAccountPage.successAlertMessage(), "Success: Your account has been successfully updated.",
 				"Phone Number change unsuccesfull...");
 	}

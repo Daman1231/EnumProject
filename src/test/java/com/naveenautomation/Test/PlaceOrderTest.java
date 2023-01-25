@@ -31,9 +31,9 @@ public class PlaceOrderTest {
 	public void verifyOrderPlaced() {
 		WebElement emailInputField = wd.findElement(By.cssSelector("form div.form-group:first-of-type input"));
 		WebElement passwordInputField = wd.findElement(By.cssSelector("form div.form-group:last-of-type input"));
-		emailInputField.sendKeys("daman.singh007@gmail.com");
+		emailInputField.sendKeys("daman@gmail.com");
 		sleep();
-		passwordInputField.sendKeys("Daman1234");
+		passwordInputField.sendKeys("Daman1231");
 		sleep();
 
 		wd.findElement(By.cssSelector("input[value='Login']")).click();

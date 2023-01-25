@@ -49,7 +49,7 @@ public class AccountLoginTest extends TestBase {
 	public void verifyUSerIsAbleToEditAddress() {
 		myAccountPage = accountLoginPage.clickLoginButton("daman@gmail.com", "Daman1231");
 		AddressBookPage addressBookPage = myAccountPage.clickAddressBook();
-		addressBookPage.editAddressBook("L6S 1R3");
+		addressBookPage.editAddressBook("L4J 3K6");
 		sf.assertEquals(addressBookPage.addressAlertSuccessText(), "Your address has been successfully updated",
 				"Address Change Unsuccesfull...");
 
