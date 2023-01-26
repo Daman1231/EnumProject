@@ -4442,3 +4442,981 @@
 2023-01-14 21:50:46 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
 2023-01-14 21:51:02 ERROR CustomListener:28 - Test execution failed and taking screen shot: verifyOrderPlaced
 2023-01-14 21:51:02 ERROR CustomListener:28 - Test execution failed and taking screen shot: verifyOrderPlaced
+2023-01-14 22:43:29 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:43:30 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:43:31 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:43:32 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:43:34 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:43:34 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:43:36 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:43:36 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:43:36 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:43:36 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:43:36 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:43:36 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:43:37 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:43:37 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:43:37 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:43:37 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (f2a660422586656b38d461ca855effe6)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:43:37 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:43:37 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:43:37 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (f2a660422586656b38d461ca855effe6)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:43:38 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:43:38 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:43:39 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:43:39 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:43:40 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:43:40 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:43:40 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:43:40 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (f2a660422586656b38d461ca855effe6)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:43:41 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:43:41 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:43:41 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:43:41 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToAddProductsToWishList
+2023-01-14 22:43:42 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:43:42 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:43:42 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToLogoutSuccesfully
+2023-01-14 22:43:44 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:43:44 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToRegisterIntoWebsite
+2023-01-14 22:43:44 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:43:44 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:43:44 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (f2a660422586656b38d461ca855effe6)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:43:44 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:43:44 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (f2a660422586656b38d461ca855effe6)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:43:45 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:43:45 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (f2a660422586656b38d461ca855effe6)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:43:45 INFO  CustomListener:17 - Test execution has started for: testSomething
+2023-01-14 22:43:46 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:43:46 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:43:46 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:43:46 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (f2a660422586656b38d461ca855effe6)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:43:46 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:43:46 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (f2a660422586656b38d461ca855effe6)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:43:46 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:43:46 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (f2a660422586656b38d461ca855effe6)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:43:46 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-14 22:43:46 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-14 22:43:46 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-14 22:43:46 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-14 22:43:47 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-14 22:43:47 INFO  CustomListener:17 - Test execution has started for: verifyAlertBannerCredential
+2023-01-14 22:43:47 INFO  CustomListener:17 - Test execution has started for: verifyUSerIsAbleToEditAddress
+2023-01-14 22:43:47 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:43:47 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (f2a660422586656b38d461ca855effe6)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:43:48 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (f2a660422586656b38d461ca855effe6)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:43:48 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Login']
+2023-01-14 22:43:48 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (f2a660422586656b38d461ca855effe6)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:43:48 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Login']
+2023-01-14 22:43:49 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (f2a660422586656b38d461ca855effe6)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:43:49 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Register']
+2023-01-14 22:43:49 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (f2a660422586656b38d461ca855effe6)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:43:49 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Login']
+2023-01-14 22:43:49 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Login']
+2023-01-14 22:43:49 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (f2a660422586656b38d461ca855effe6)] -> xpath: //a[text()='Login']]
+2023-01-14 22:43:49 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Login']
+2023-01-14 22:43:49 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (f2a660422586656b38d461ca855effe6)] -> xpath: //a[text()='Login']]
+2023-01-14 22:43:49 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Register']
+2023-01-14 22:43:49 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (f2a660422586656b38d461ca855effe6)] -> xpath: //a[text()='Register']]
+2023-01-14 22:43:50 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Login']
+2023-01-14 22:43:50 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (f2a660422586656b38d461ca855effe6)] -> xpath: //a[text()='Login']]
+2023-01-14 22:43:59 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:44:00 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToChangePhoneNumberOnceLoggedIn
+2023-01-14 22:44:05 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:44:05 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:44:05 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:44:05 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (1a0108d4cae34c1f5737cee05c11f752)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:44:06 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (1a0108d4cae34c1f5737cee05c11f752)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:44:06 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Login']
+2023-01-14 22:44:06 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Login']
+2023-01-14 22:44:06 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (1a0108d4cae34c1f5737cee05c11f752)] -> xpath: //a[text()='Login']]
+2023-01-14 22:44:07 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (1a0108d4cae34c1f5737cee05c11f752)] -> xpath: //a[text()='Login']]
+2023-01-14 22:44:07 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-email
+2023-01-14 22:44:07 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-email
+2023-01-14 22:44:08 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-password
+2023-01-14 22:44:08 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-password
+2023-01-14 22:44:09 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input.btn
+2023-01-14 22:44:09 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input.btn
+2023-01-14 22:44:09 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (1a0108d4cae34c1f5737cee05c11f752)] -> css selector: input.btn]
+2023-01-14 22:44:10 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (1a0108d4cae34c1f5737cee05c11f752)] -> css selector: input.btn]
+2023-01-14 22:44:10 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToSubscribeUnsubscribeToNewsLetter
+2023-01-14 22:44:10 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToLoginWithValidUsernamePassword
+2023-01-14 22:44:14 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
+2023-01-14 22:44:20 INFO  RetryLogic:20 - Running a failed test 1 times
+2023-01-14 22:44:23 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:44:26 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:44:26 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToRegisterIntoWebsite
+2023-01-14 22:44:26 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:44:26 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:44:26 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (c15d97e3abc8259e35d8241c320b91db)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:44:26 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (c15d97e3abc8259e35d8241c320b91db)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:44:26 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Register']
+2023-01-14 22:44:26 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Register']
+2023-01-14 22:44:26 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (c15d97e3abc8259e35d8241c320b91db)] -> xpath: //a[text()='Register']]
+2023-01-14 22:44:27 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (c15d97e3abc8259e35d8241c320b91db)] -> xpath: //a[text()='Register']]
+2023-01-14 22:44:27 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-firstname
+2023-01-14 22:44:27 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-firstname
+2023-01-14 22:44:28 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-lastname
+2023-01-14 22:44:28 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-lastname
+2023-01-14 22:44:28 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-email
+2023-01-14 22:44:28 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-email
+2023-01-14 22:44:28 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-telephone
+2023-01-14 22:44:28 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-telephone
+2023-01-14 22:44:29 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-password
+2023-01-14 22:44:29 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-password
+2023-01-14 22:44:29 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-confirm
+2023-01-14 22:44:29 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-confirm
+2023-01-14 22:44:29 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input[type='checkbox']
+2023-01-14 22:44:29 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input[type='checkbox']
+2023-01-14 22:44:29 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (c15d97e3abc8259e35d8241c320b91db)] -> css selector: input[type='checkbox']]
+2023-01-14 22:44:29 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (c15d97e3abc8259e35d8241c320b91db)] -> css selector: input[type='checkbox']]
+2023-01-14 22:44:29 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input.btn
+2023-01-14 22:44:29 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input.btn
+2023-01-14 22:44:30 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #content h1
+2023-01-14 22:44:30 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #content h1
+2023-01-14 22:44:30 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (c15d97e3abc8259e35d8241c320b91db)] -> css selector: #content h1]
+2023-01-14 22:44:30 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (c15d97e3abc8259e35d8241c320b91db)] -> css selector: #content h1]
+2023-01-14 22:44:30 INFO  RetryLogic:20 - Running a failed test 2 times
+2023-01-14 22:44:30 INFO  CustomListener:17 - Test execution has started for: verifyLogin
+2023-01-14 22:44:32 INFO  RetryLogic:20 - Running a failed test 1 times
+2023-01-14 22:44:33 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:44:36 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:44:36 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToRegisterIntoWebsite
+2023-01-14 22:44:36 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:44:36 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:44:36 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (f0218b30f724b351eeba41ed51ef5f69)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:44:37 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (f0218b30f724b351eeba41ed51ef5f69)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:44:37 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Register']
+2023-01-14 22:44:37 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Register']
+2023-01-14 22:44:37 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (f0218b30f724b351eeba41ed51ef5f69)] -> xpath: //a[text()='Register']]
+2023-01-14 22:44:38 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (f0218b30f724b351eeba41ed51ef5f69)] -> xpath: //a[text()='Register']]
+2023-01-14 22:44:38 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-firstname
+2023-01-14 22:44:39 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-firstname
+2023-01-14 22:44:39 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-lastname
+2023-01-14 22:44:39 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-lastname
+2023-01-14 22:44:39 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-email
+2023-01-14 22:44:39 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-email
+2023-01-14 22:44:39 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-telephone
+2023-01-14 22:44:39 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-telephone
+2023-01-14 22:44:40 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-password
+2023-01-14 22:44:40 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-password
+2023-01-14 22:44:40 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-confirm
+2023-01-14 22:44:40 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-confirm
+2023-01-14 22:44:40 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input[type='checkbox']
+2023-01-14 22:44:40 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input[type='checkbox']
+2023-01-14 22:44:40 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (f0218b30f724b351eeba41ed51ef5f69)] -> css selector: input[type='checkbox']]
+2023-01-14 22:44:40 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (f0218b30f724b351eeba41ed51ef5f69)] -> css selector: input[type='checkbox']]
+2023-01-14 22:44:40 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input.btn
+2023-01-14 22:44:40 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input.btn
+2023-01-14 22:44:41 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #content h1
+2023-01-14 22:44:41 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #content h1
+2023-01-14 22:44:41 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (f0218b30f724b351eeba41ed51ef5f69)] -> css selector: #content h1]
+2023-01-14 22:44:41 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (f0218b30f724b351eeba41ed51ef5f69)] -> css selector: #content h1]
+2023-01-14 22:44:41 INFO  RetryLogic:20 - Running a failed test 3 times
+2023-01-14 22:44:42 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
+2023-01-14 22:44:44 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:44:47 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:44:47 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToRegisterIntoWebsite
+2023-01-14 22:44:47 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:44:47 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:44:47 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (e7af8863313f49b2abfc2ac6a23263db)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:44:47 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (e7af8863313f49b2abfc2ac6a23263db)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:44:47 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Register']
+2023-01-14 22:44:48 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Register']
+2023-01-14 22:44:48 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (e7af8863313f49b2abfc2ac6a23263db)] -> xpath: //a[text()='Register']]
+2023-01-14 22:44:48 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (e7af8863313f49b2abfc2ac6a23263db)] -> xpath: //a[text()='Register']]
+2023-01-14 22:44:48 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-firstname
+2023-01-14 22:44:49 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-firstname
+2023-01-14 22:44:49 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-lastname
+2023-01-14 22:44:49 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-lastname
+2023-01-14 22:44:49 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-email
+2023-01-14 22:44:49 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-email
+2023-01-14 22:44:49 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-telephone
+2023-01-14 22:44:49 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-telephone
+2023-01-14 22:44:49 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-password
+2023-01-14 22:44:49 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-password
+2023-01-14 22:44:50 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-confirm
+2023-01-14 22:44:50 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-confirm
+2023-01-14 22:44:50 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input[type='checkbox']
+2023-01-14 22:44:50 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input[type='checkbox']
+2023-01-14 22:44:50 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (e7af8863313f49b2abfc2ac6a23263db)] -> css selector: input[type='checkbox']]
+2023-01-14 22:44:50 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (e7af8863313f49b2abfc2ac6a23263db)] -> css selector: input[type='checkbox']]
+2023-01-14 22:44:50 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input.btn
+2023-01-14 22:44:50 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input.btn
+2023-01-14 22:44:51 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #content h1
+2023-01-14 22:44:51 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #content h1
+2023-01-14 22:44:51 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (e7af8863313f49b2abfc2ac6a23263db)] -> css selector: #content h1]
+2023-01-14 22:44:51 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (e7af8863313f49b2abfc2ac6a23263db)] -> css selector: #content h1]
+2023-01-14 22:44:51 ERROR CustomListener:28 - Test execution failed and taking screen shot: verifyUserIsAbleToRegisterIntoWebsite
+2023-01-14 22:44:59 INFO  RetryLogic:20 - Running a failed test 2 times
+2023-01-14 22:45:07 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
+2023-01-14 22:45:24 INFO  RetryLogic:20 - Running a failed test 3 times
+2023-01-14 22:45:33 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
+2023-01-14 22:45:50 ERROR CustomListener:28 - Test execution failed and taking screen shot: verifyOrderPlaced
+2023-01-14 22:45:50 ERROR CustomListener:28 - Test execution failed and taking screen shot: verifyOrderPlaced
+2023-01-14 22:50:57 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:51:00 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:51:00 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:51:00 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:51:00 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (06daa247079793e0b07c1119fbfc1c38)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:51:00 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (06daa247079793e0b07c1119fbfc1c38)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:51:00 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Login']
+2023-01-14 22:51:00 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Login']
+2023-01-14 22:51:00 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (06daa247079793e0b07c1119fbfc1c38)] -> xpath: //a[text()='Login']]
+2023-01-14 22:51:01 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (06daa247079793e0b07c1119fbfc1c38)] -> xpath: //a[text()='Login']]
+2023-01-14 22:51:01 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-email
+2023-01-14 22:51:01 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-email
+2023-01-14 22:51:01 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-password
+2023-01-14 22:51:01 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-password
+2023-01-14 22:51:01 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input.btn
+2023-01-14 22:51:01 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input.btn
+2023-01-14 22:51:01 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (06daa247079793e0b07c1119fbfc1c38)] -> css selector: input.btn]
+2023-01-14 22:51:02 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (06daa247079793e0b07c1119fbfc1c38)] -> css selector: input.btn]
+2023-01-14 22:51:02 INFO  WebDriverEvents:98 - Finding Element By.xpath: //h2[text()='My Account']
+2023-01-14 22:51:02 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //h2[text()='My Account']
+2023-01-14 22:51:02 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (06daa247079793e0b07c1119fbfc1c38)] -> xpath: //h2[text()='My Account']]
+2023-01-14 22:51:02 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (06daa247079793e0b07c1119fbfc1c38)] -> xpath: //h2[text()='My Account']]
+2023-01-14 22:51:20 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:51:23 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:51:23 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:51:23 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:51:23 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (52a623d1fa3b155f918bb29199f766d9)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:51:23 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (52a623d1fa3b155f918bb29199f766d9)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:51:23 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Login']
+2023-01-14 22:51:23 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Login']
+2023-01-14 22:51:23 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (52a623d1fa3b155f918bb29199f766d9)] -> xpath: //a[text()='Login']]
+2023-01-14 22:51:24 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (52a623d1fa3b155f918bb29199f766d9)] -> xpath: //a[text()='Login']]
+2023-01-14 22:51:24 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-email
+2023-01-14 22:51:24 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-email
+2023-01-14 22:51:24 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-password
+2023-01-14 22:51:24 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-password
+2023-01-14 22:51:24 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input.btn
+2023-01-14 22:51:24 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input.btn
+2023-01-14 22:51:24 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (52a623d1fa3b155f918bb29199f766d9)] -> css selector: input.btn]
+2023-01-14 22:51:25 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (52a623d1fa3b155f918bb29199f766d9)] -> css selector: input.btn]
+2023-01-14 22:51:25 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: div.list-group a:nth-of-type(4)
+2023-01-14 22:51:25 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: div.list-group a:nth-of-type(4)
+2023-01-14 22:51:25 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (52a623d1fa3b155f918bb29199f766d9)] -> css selector: div.list-group a:nth-of-type(4)]
+2023-01-14 22:51:26 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (52a623d1fa3b155f918bb29199f766d9)] -> css selector: div.list-group a:nth-of-type(4)]
+2023-01-14 22:51:26 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: tbody tr
+2023-01-14 22:51:26 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: tbody tr
+2023-01-14 22:51:26 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-14 22:51:26 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-14 22:51:26 INFO  WebDriverEvents:180 - Switching to window text from [[[[RemoteWebDriver: chrome on WINDOWS (52a623d1fa3b155f918bb29199f766d9)] -> css selector: tbody tr]] -> css selector: td]
+2023-01-14 22:51:26 INFO  WebDriverEvents:187 - Switched to window text from  [[[[RemoteWebDriver: chrome on WINDOWS (52a623d1fa3b155f918bb29199f766d9)] -> css selector: tbody tr]] -> css selector: td]
+2023-01-14 22:51:26 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-14 22:51:26 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-14 22:51:26 INFO  WebDriverEvents:180 - Switching to window text from [[[[RemoteWebDriver: chrome on WINDOWS (52a623d1fa3b155f918bb29199f766d9)] -> css selector: tbody tr]] -> css selector: td]
+2023-01-14 22:51:26 INFO  WebDriverEvents:187 - Switched to window text from  [[[[RemoteWebDriver: chrome on WINDOWS (52a623d1fa3b155f918bb29199f766d9)] -> css selector: tbody tr]] -> css selector: td]
+2023-01-14 22:51:26 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-14 22:51:26 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-14 22:51:26 INFO  WebDriverEvents:180 - Switching to window text from [[[[RemoteWebDriver: chrome on WINDOWS (52a623d1fa3b155f918bb29199f766d9)] -> css selector: tbody tr]] -> css selector: td]
+2023-01-14 22:51:26 INFO  WebDriverEvents:187 - Switched to window text from  [[[[RemoteWebDriver: chrome on WINDOWS (52a623d1fa3b155f918bb29199f766d9)] -> css selector: tbody tr]] -> css selector: td]
+2023-01-14 22:51:26 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-14 22:51:26 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-14 22:51:26 INFO  WebDriverEvents:180 - Switching to window text from [[[[RemoteWebDriver: chrome on WINDOWS (52a623d1fa3b155f918bb29199f766d9)] -> css selector: tbody tr]] -> css selector: td]
+2023-01-14 22:51:26 INFO  WebDriverEvents:187 - Switched to window text from  [[[[RemoteWebDriver: chrome on WINDOWS (52a623d1fa3b155f918bb29199f766d9)] -> css selector: tbody tr]] -> css selector: td]
+2023-01-14 22:51:26 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-14 22:51:26 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-14 22:51:26 INFO  WebDriverEvents:180 - Switching to window text from [[[[RemoteWebDriver: chrome on WINDOWS (52a623d1fa3b155f918bb29199f766d9)] -> css selector: tbody tr]] -> css selector: td]
+2023-01-14 22:51:26 INFO  WebDriverEvents:187 - Switched to window text from  [[[[RemoteWebDriver: chrome on WINDOWS (52a623d1fa3b155f918bb29199f766d9)] -> css selector: tbody tr]] -> css selector: td]
+2023-01-14 22:57:51 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:57:51 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:57:51 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:57:51 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:57:54 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:57:54 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:57:54 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:57:55 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:57:55 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:57:55 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:57:55 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:57:55 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:57:56 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:57:56 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:57:56 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:57:56 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:57:56 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:57:56 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:57:56 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (531ae5b8232c26b233b26bb028d7d91e)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:57:56 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:57:56 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:57:56 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (531ae5b8232c26b233b26bb028d7d91e)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:57:57 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:57:57 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:57:57 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:57:57 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (531ae5b8232c26b233b26bb028d7d91e)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:57:57 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:57:57 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:57:57 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (531ae5b8232c26b233b26bb028d7d91e)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:57:57 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:57:57 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (531ae5b8232c26b233b26bb028d7d91e)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:57:58 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:57:58 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToRegisterIntoWebsite
+2023-01-14 22:57:58 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:57:59 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:57:59 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:57:59 INFO  CustomListener:17 - Test execution has started for: verifyAlertBannerCredential
+2023-01-14 22:57:59 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:57:59 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToLogoutSuccesfully
+2023-01-14 22:57:59 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:57:59 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (531ae5b8232c26b233b26bb028d7d91e)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:57:59 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToLoginWithValidUsernamePassword
+2023-01-14 22:58:00 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:58:00 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:58:00 INFO  CustomListener:17 - Test execution has started for: verifyUSerIsAbleToEditAddress
+2023-01-14 22:58:00 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:58:00 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (531ae5b8232c26b233b26bb028d7d91e)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:58:00 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:58:00 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (531ae5b8232c26b233b26bb028d7d91e)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:58:00 INFO  CustomListener:17 - Test execution has started for: testSomething
+2023-01-14 22:58:00 INFO  CustomListener:17 - Test execution has started for: verifyLogin
+2023-01-14 22:58:01 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:58:01 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:58:01 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:58:01 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (531ae5b8232c26b233b26bb028d7d91e)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:58:01 INFO  RetryLogic:20 - Running a failed test 1 times
+2023-01-14 22:58:01 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToAddProductsToWishList
+2023-01-14 22:58:01 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:58:01 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (531ae5b8232c26b233b26bb028d7d91e)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:58:02 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (531ae5b8232c26b233b26bb028d7d91e)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:58:02 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Login']
+2023-01-14 22:58:07 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:58:15 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
+2023-01-14 22:58:16 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:58:16 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:58:16 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:58:16 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (7eba0cdf7b398893bcf41d31d9ba2500)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:58:17 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (7eba0cdf7b398893bcf41d31d9ba2500)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:58:17 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Login']
+2023-01-14 22:58:17 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Login']
+2023-01-14 22:58:17 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (7eba0cdf7b398893bcf41d31d9ba2500)] -> xpath: //a[text()='Login']]
+2023-01-14 22:58:19 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (7eba0cdf7b398893bcf41d31d9ba2500)] -> xpath: //a[text()='Login']]
+2023-01-14 22:58:19 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-email
+2023-01-14 22:58:19 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-email
+2023-01-14 22:58:20 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-password
+2023-01-14 22:58:20 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-password
+2023-01-14 22:58:22 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input.btn
+2023-01-14 22:58:22 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input.btn
+2023-01-14 22:58:22 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (7eba0cdf7b398893bcf41d31d9ba2500)] -> css selector: input.btn]
+2023-01-14 22:58:23 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (7eba0cdf7b398893bcf41d31d9ba2500)] -> css selector: input.btn]
+2023-01-14 22:58:23 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToSubscribeUnsubscribeToNewsLetter
+2023-01-14 22:58:25 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToChangePhoneNumberOnceLoggedIn
+2023-01-14 22:58:25 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-14 22:58:25 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-14 22:58:25 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-14 22:58:25 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-14 22:58:25 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-14 22:58:28 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:58:31 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:58:31 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToRegisterIntoWebsite
+2023-01-14 22:58:31 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:58:31 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:58:31 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (3268742faf06e480c52ca93f8187711b)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:58:31 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (3268742faf06e480c52ca93f8187711b)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:58:31 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Register']
+2023-01-14 22:58:32 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Register']
+2023-01-14 22:58:32 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (3268742faf06e480c52ca93f8187711b)] -> xpath: //a[text()='Register']]
+2023-01-14 22:58:33 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (3268742faf06e480c52ca93f8187711b)] -> xpath: //a[text()='Register']]
+2023-01-14 22:58:33 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-firstname
+2023-01-14 22:58:33 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-firstname
+2023-01-14 22:58:33 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-lastname
+2023-01-14 22:58:33 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-lastname
+2023-01-14 22:58:33 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-email
+2023-01-14 22:58:33 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-email
+2023-01-14 22:58:33 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-telephone
+2023-01-14 22:58:33 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-telephone
+2023-01-14 22:58:34 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-password
+2023-01-14 22:58:34 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-password
+2023-01-14 22:58:34 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-confirm
+2023-01-14 22:58:34 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-confirm
+2023-01-14 22:58:34 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input[type='checkbox']
+2023-01-14 22:58:34 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input[type='checkbox']
+2023-01-14 22:58:34 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (3268742faf06e480c52ca93f8187711b)] -> css selector: input[type='checkbox']]
+2023-01-14 22:58:34 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (3268742faf06e480c52ca93f8187711b)] -> css selector: input[type='checkbox']]
+2023-01-14 22:58:34 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input.btn
+2023-01-14 22:58:34 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input.btn
+2023-01-14 22:58:35 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #content h1
+2023-01-14 22:58:35 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #content h1
+2023-01-14 22:58:35 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (3268742faf06e480c52ca93f8187711b)] -> css selector: #content h1]
+2023-01-14 22:58:35 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (3268742faf06e480c52ca93f8187711b)] -> css selector: #content h1]
+2023-01-14 22:58:35 INFO  RetryLogic:20 - Running a failed test 2 times
+2023-01-14 22:58:37 INFO  RetryLogic:20 - Running a failed test 1 times
+2023-01-14 22:58:38 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:58:41 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:58:41 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToRegisterIntoWebsite
+2023-01-14 22:58:41 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:58:41 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:58:41 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (8c93ffbca6e10913e8f63baaad4d08ae)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:58:41 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (8c93ffbca6e10913e8f63baaad4d08ae)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:58:41 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Register']
+2023-01-14 22:58:41 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Register']
+2023-01-14 22:58:41 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (8c93ffbca6e10913e8f63baaad4d08ae)] -> xpath: //a[text()='Register']]
+2023-01-14 22:58:43 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (8c93ffbca6e10913e8f63baaad4d08ae)] -> xpath: //a[text()='Register']]
+2023-01-14 22:58:43 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-firstname
+2023-01-14 22:58:43 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-firstname
+2023-01-14 22:58:43 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-lastname
+2023-01-14 22:58:43 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-lastname
+2023-01-14 22:58:43 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-email
+2023-01-14 22:58:43 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-email
+2023-01-14 22:58:43 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-telephone
+2023-01-14 22:58:44 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-telephone
+2023-01-14 22:58:44 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-password
+2023-01-14 22:58:44 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-password
+2023-01-14 22:58:44 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-confirm
+2023-01-14 22:58:44 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-confirm
+2023-01-14 22:58:44 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input[type='checkbox']
+2023-01-14 22:58:44 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input[type='checkbox']
+2023-01-14 22:58:44 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (8c93ffbca6e10913e8f63baaad4d08ae)] -> css selector: input[type='checkbox']]
+2023-01-14 22:58:45 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (8c93ffbca6e10913e8f63baaad4d08ae)] -> css selector: input[type='checkbox']]
+2023-01-14 22:58:45 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input.btn
+2023-01-14 22:58:45 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input.btn
+2023-01-14 22:58:45 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #content h1
+2023-01-14 22:58:45 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #content h1
+2023-01-14 22:58:45 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (8c93ffbca6e10913e8f63baaad4d08ae)] -> css selector: #content h1]
+2023-01-14 22:58:45 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (8c93ffbca6e10913e8f63baaad4d08ae)] -> css selector: #content h1]
+2023-01-14 22:58:45 INFO  RetryLogic:20 - Running a failed test 3 times
+2023-01-14 22:58:47 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
+2023-01-14 22:58:48 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:58:51 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 22:58:51 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToRegisterIntoWebsite
+2023-01-14 22:58:51 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:58:51 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 22:58:51 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (91c77da570884b95bb142a65d7bb9376)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:58:51 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (91c77da570884b95bb142a65d7bb9376)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 22:58:51 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Register']
+2023-01-14 22:58:51 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Register']
+2023-01-14 22:58:51 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (91c77da570884b95bb142a65d7bb9376)] -> xpath: //a[text()='Register']]
+2023-01-14 22:58:52 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (91c77da570884b95bb142a65d7bb9376)] -> xpath: //a[text()='Register']]
+2023-01-14 22:58:52 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-firstname
+2023-01-14 22:58:52 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-firstname
+2023-01-14 22:58:52 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-lastname
+2023-01-14 22:58:52 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-lastname
+2023-01-14 22:58:53 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-email
+2023-01-14 22:58:53 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-email
+2023-01-14 22:58:53 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-telephone
+2023-01-14 22:58:53 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-telephone
+2023-01-14 22:58:53 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-password
+2023-01-14 22:58:53 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-password
+2023-01-14 22:58:53 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-confirm
+2023-01-14 22:58:53 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-confirm
+2023-01-14 22:58:54 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input[type='checkbox']
+2023-01-14 22:58:54 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input[type='checkbox']
+2023-01-14 22:58:54 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (91c77da570884b95bb142a65d7bb9376)] -> css selector: input[type='checkbox']]
+2023-01-14 22:58:54 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (91c77da570884b95bb142a65d7bb9376)] -> css selector: input[type='checkbox']]
+2023-01-14 22:58:54 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input.btn
+2023-01-14 22:58:54 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input.btn
+2023-01-14 22:58:54 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #content h1
+2023-01-14 22:58:54 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #content h1
+2023-01-14 22:58:54 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (91c77da570884b95bb142a65d7bb9376)] -> css selector: #content h1]
+2023-01-14 22:58:55 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (91c77da570884b95bb142a65d7bb9376)] -> css selector: #content h1]
+2023-01-14 22:58:55 ERROR CustomListener:28 - Test execution failed and taking screen shot: verifyUserIsAbleToRegisterIntoWebsite
+2023-01-14 22:59:04 INFO  RetryLogic:20 - Running a failed test 2 times
+2023-01-14 22:59:12 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
+2023-01-14 22:59:30 INFO  RetryLogic:20 - Running a failed test 3 times
+2023-01-14 22:59:38 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
+2023-01-14 22:59:54 ERROR CustomListener:28 - Test execution failed and taking screen shot: verifyOrderPlaced
+2023-01-14 22:59:54 ERROR CustomListener:28 - Test execution failed and taking screen shot: verifyOrderPlaced
+2023-01-14 23:51:27 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:51:27 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:51:27 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:51:30 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:51:30 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToRegisterIntoWebsite
+2023-01-14 23:51:30 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:51:31 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:51:31 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:51:31 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:51:31 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:51:31 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:51:31 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:51:32 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:51:32 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:51:32 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:51:32 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:51:32 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (4c24b0ce8ee74ba565878806693cae45)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 23:51:32 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:51:32 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:51:32 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (4c24b0ce8ee74ba565878806693cae45)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 23:51:33 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:51:33 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:51:34 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:51:34 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:51:35 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:51:35 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:51:35 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:51:36 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:51:36 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:51:37 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:51:37 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:51:37 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:51:37 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (4c24b0ce8ee74ba565878806693cae45)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 23:51:38 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:51:38 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:51:38 INFO  RetryLogic:20 - Running a failed test 1 times
+2023-01-14 23:51:39 INFO  CustomListener:17 - Test execution has started for: verifyAlertBannerCredential
+2023-01-14 23:51:39 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:51:39 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (4c24b0ce8ee74ba565878806693cae45)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 23:51:40 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:51:40 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (4c24b0ce8ee74ba565878806693cae45)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 23:51:42 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:51:42 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:51:43 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:51:43 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (4c24b0ce8ee74ba565878806693cae45)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 23:51:44 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:51:44 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (4c24b0ce8ee74ba565878806693cae45)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 23:51:45 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:51:45 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (4c24b0ce8ee74ba565878806693cae45)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 23:51:47 INFO  CustomListener:17 - Test execution has started for: verifyLogin
+2023-01-14 23:51:47 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:51:47 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (4c24b0ce8ee74ba565878806693cae45)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 23:51:54 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:51:55 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-14 23:51:55 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-14 23:51:55 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-14 23:51:55 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-14 23:51:55 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-14 23:51:56 INFO  CustomListener:17 - Test execution has started for: verifyUSerIsAbleToEditAddress
+2023-01-14 23:51:56 INFO  CustomListener:17 - Test execution has started for: testSomething
+2023-01-14 23:51:56 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToLoginWithValidUsernamePassword
+2023-01-14 23:51:56 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToLogoutSuccesfully
+2023-01-14 23:51:57 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToAddProductsToWishList
+2023-01-14 23:51:57 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToChangePhoneNumberOnceLoggedIn
+2023-01-14 23:51:58 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:51:58 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:51:58 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:51:58 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (d41fb4e6427871cf00ce729ceaa5e06c)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 23:51:58 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (d41fb4e6427871cf00ce729ceaa5e06c)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 23:51:58 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Login']
+2023-01-14 23:51:58 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Login']
+2023-01-14 23:51:58 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (d41fb4e6427871cf00ce729ceaa5e06c)] -> xpath: //a[text()='Login']]
+2023-01-14 23:51:59 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (d41fb4e6427871cf00ce729ceaa5e06c)] -> xpath: //a[text()='Login']]
+2023-01-14 23:51:59 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-email
+2023-01-14 23:52:00 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-email
+2023-01-14 23:52:01 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-password
+2023-01-14 23:52:01 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-password
+2023-01-14 23:52:01 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:52:02 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input.btn
+2023-01-14 23:52:02 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input.btn
+2023-01-14 23:52:02 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (d41fb4e6427871cf00ce729ceaa5e06c)] -> css selector: input.btn]
+2023-01-14 23:52:02 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
+2023-01-14 23:52:03 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (d41fb4e6427871cf00ce729ceaa5e06c)] -> css selector: input.btn]
+2023-01-14 23:52:03 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToSubscribeUnsubscribeToNewsLetter
+2023-01-14 23:52:04 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:52:04 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToRegisterIntoWebsite
+2023-01-14 23:52:04 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:52:04 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:52:04 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (0a73190680c3feb2ed5fc28eeb9ad44b)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 23:52:04 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (0a73190680c3feb2ed5fc28eeb9ad44b)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 23:52:04 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Register']
+2023-01-14 23:52:05 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Register']
+2023-01-14 23:52:05 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (0a73190680c3feb2ed5fc28eeb9ad44b)] -> xpath: //a[text()='Register']]
+2023-01-14 23:52:06 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (0a73190680c3feb2ed5fc28eeb9ad44b)] -> xpath: //a[text()='Register']]
+2023-01-14 23:52:06 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-firstname
+2023-01-14 23:52:06 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-firstname
+2023-01-14 23:52:06 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-lastname
+2023-01-14 23:52:06 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-lastname
+2023-01-14 23:52:06 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-email
+2023-01-14 23:52:06 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-email
+2023-01-14 23:52:06 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-telephone
+2023-01-14 23:52:06 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-telephone
+2023-01-14 23:52:07 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-password
+2023-01-14 23:52:07 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-password
+2023-01-14 23:52:07 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-confirm
+2023-01-14 23:52:07 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-confirm
+2023-01-14 23:52:07 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input[type='checkbox']
+2023-01-14 23:52:07 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input[type='checkbox']
+2023-01-14 23:52:07 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (0a73190680c3feb2ed5fc28eeb9ad44b)] -> css selector: input[type='checkbox']]
+2023-01-14 23:52:07 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (0a73190680c3feb2ed5fc28eeb9ad44b)] -> css selector: input[type='checkbox']]
+2023-01-14 23:52:07 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input.btn
+2023-01-14 23:52:07 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input.btn
+2023-01-14 23:52:08 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #content h1
+2023-01-14 23:52:08 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #content h1
+2023-01-14 23:52:08 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (0a73190680c3feb2ed5fc28eeb9ad44b)] -> css selector: #content h1]
+2023-01-14 23:52:08 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (0a73190680c3feb2ed5fc28eeb9ad44b)] -> css selector: #content h1]
+2023-01-14 23:52:08 INFO  RetryLogic:20 - Running a failed test 2 times
+2023-01-14 23:52:11 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:52:14 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:52:14 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToRegisterIntoWebsite
+2023-01-14 23:52:14 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:52:14 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:52:14 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (48b700fc9668903d5add6e81f505b511)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 23:52:14 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (48b700fc9668903d5add6e81f505b511)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 23:52:14 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Register']
+2023-01-14 23:52:14 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Register']
+2023-01-14 23:52:14 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (48b700fc9668903d5add6e81f505b511)] -> xpath: //a[text()='Register']]
+2023-01-14 23:52:15 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (48b700fc9668903d5add6e81f505b511)] -> xpath: //a[text()='Register']]
+2023-01-14 23:52:15 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-firstname
+2023-01-14 23:52:15 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-firstname
+2023-01-14 23:52:16 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-lastname
+2023-01-14 23:52:16 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-lastname
+2023-01-14 23:52:16 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-email
+2023-01-14 23:52:16 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-email
+2023-01-14 23:52:17 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-telephone
+2023-01-14 23:52:17 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-telephone
+2023-01-14 23:52:17 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-password
+2023-01-14 23:52:17 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-password
+2023-01-14 23:52:17 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-confirm
+2023-01-14 23:52:17 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-confirm
+2023-01-14 23:52:18 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input[type='checkbox']
+2023-01-14 23:52:18 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input[type='checkbox']
+2023-01-14 23:52:18 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (48b700fc9668903d5add6e81f505b511)] -> css selector: input[type='checkbox']]
+2023-01-14 23:52:18 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (48b700fc9668903d5add6e81f505b511)] -> css selector: input[type='checkbox']]
+2023-01-14 23:52:18 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input.btn
+2023-01-14 23:52:18 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input.btn
+2023-01-14 23:52:19 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #content h1
+2023-01-14 23:52:19 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #content h1
+2023-01-14 23:52:19 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (48b700fc9668903d5add6e81f505b511)] -> css selector: #content h1]
+2023-01-14 23:52:19 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (48b700fc9668903d5add6e81f505b511)] -> css selector: #content h1]
+2023-01-14 23:52:19 INFO  RetryLogic:20 - Running a failed test 3 times
+2023-01-14 23:52:22 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:52:24 INFO  RetryLogic:20 - Running a failed test 1 times
+2023-01-14 23:52:25 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-14 23:52:25 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToRegisterIntoWebsite
+2023-01-14 23:52:25 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:52:25 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-14 23:52:25 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (eb25cc83d3919ea59f21733c8c372fb0)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 23:52:25 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (eb25cc83d3919ea59f21733c8c372fb0)] -> css selector: li.dropdown span:first-of-type]
+2023-01-14 23:52:25 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Register']
+2023-01-14 23:52:25 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Register']
+2023-01-14 23:52:25 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (eb25cc83d3919ea59f21733c8c372fb0)] -> xpath: //a[text()='Register']]
+2023-01-14 23:52:26 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (eb25cc83d3919ea59f21733c8c372fb0)] -> xpath: //a[text()='Register']]
+2023-01-14 23:52:26 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-firstname
+2023-01-14 23:52:26 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-firstname
+2023-01-14 23:52:27 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-lastname
+2023-01-14 23:52:27 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-lastname
+2023-01-14 23:52:27 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-email
+2023-01-14 23:52:27 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-email
+2023-01-14 23:52:28 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-telephone
+2023-01-14 23:52:28 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-telephone
+2023-01-14 23:52:28 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-password
+2023-01-14 23:52:29 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-password
+2023-01-14 23:52:29 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-confirm
+2023-01-14 23:52:29 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-confirm
+2023-01-14 23:52:29 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input[type='checkbox']
+2023-01-14 23:52:29 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input[type='checkbox']
+2023-01-14 23:52:29 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (eb25cc83d3919ea59f21733c8c372fb0)] -> css selector: input[type='checkbox']]
+2023-01-14 23:52:29 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (eb25cc83d3919ea59f21733c8c372fb0)] -> css selector: input[type='checkbox']]
+2023-01-14 23:52:29 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input.btn
+2023-01-14 23:52:29 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input.btn
+2023-01-14 23:52:30 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #content h1
+2023-01-14 23:52:30 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #content h1
+2023-01-14 23:52:30 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (eb25cc83d3919ea59f21733c8c372fb0)] -> css selector: #content h1]
+2023-01-14 23:52:31 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (eb25cc83d3919ea59f21733c8c372fb0)] -> css selector: #content h1]
+2023-01-14 23:52:31 ERROR CustomListener:28 - Test execution failed and taking screen shot: verifyUserIsAbleToRegisterIntoWebsite
+2023-01-14 23:52:33 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
+2023-01-14 23:52:49 INFO  RetryLogic:20 - Running a failed test 2 times
+2023-01-14 23:52:57 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
+2023-01-14 23:53:15 INFO  RetryLogic:20 - Running a failed test 3 times
+2023-01-14 23:53:25 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
+2023-01-15 00:03:18 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToAddProductsToWishList
+2023-01-15 00:03:21 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToRegisterIntoWebsite
+2023-01-15 00:03:22 INFO  CustomListener:17 - Test execution has started for: testSomething
+2023-01-15 00:03:22 INFO  CustomListener:17 - Test execution has started for: verifyAlertBannerCredential
+2023-01-15 00:03:22 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToChangePhoneNumberOnceLoggedIn
+2023-01-15 00:03:22 INFO  CustomListener:17 - Test execution has started for: verifyUSerIsAbleToEditAddress
+2023-01-15 00:03:22 INFO  CustomListener:17 - Test execution has started for: verifyLogin
+2023-01-15 00:03:23 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToLogoutSuccesfully
+2023-01-15 00:03:23 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToLoginWithValidUsernamePassword
+2023-01-15 00:03:25 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-15 00:03:25 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-15 00:03:25 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-15 00:03:25 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-15 00:03:25 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-15 00:03:26 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToSubscribeUnsubscribeToNewsLetter
+2023-01-15 00:03:33 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
+2023-01-15 00:03:58 INFO  RetryLogic:20 - Running a failed test 1 times
+2023-01-15 00:04:06 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
+2023-01-15 00:04:21 INFO  RetryLogic:20 - Running a failed test 2 times
+2023-01-15 00:04:28 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
+2023-01-15 00:04:45 INFO  RetryLogic:20 - Running a failed test 3 times
+2023-01-15 00:04:52 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
+2023-01-15 00:05:08 ERROR CustomListener:28 - Test execution failed and taking screen shot: verifyOrderPlaced
+2023-01-15 00:15:25 INFO  CustomListener:17 - Test execution has started for: verifyAlertBannerCredential
+2023-01-15 00:15:28 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-15 00:15:28 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-15 00:15:28 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-15 00:15:28 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-15 00:15:29 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-15 00:15:32 INFO  CustomListener:17 - Test execution has started for: verifyLogin
+2023-01-15 00:15:34 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToAddProductsToWishList
+2023-01-15 00:15:34 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToRegisterIntoWebsite
+2023-01-15 00:15:34 INFO  CustomListener:17 - Test execution has started for: testSomething
+2023-01-15 00:15:36 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToLoginWithValidUsernamePassword
+2023-01-15 00:15:36 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToSubscribeUnsubscribeToNewsLetter
+2023-01-15 00:15:36 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToLogoutSuccesfully
+2023-01-15 00:15:36 INFO  CustomListener:17 - Test execution has started for: verifyUSerIsAbleToEditAddress
+2023-01-15 00:15:36 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToChangePhoneNumberOnceLoggedIn
+2023-01-15 00:15:45 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
+2023-01-15 00:16:07 INFO  RetryLogic:20 - Running a failed test 1 times
+2023-01-15 00:16:15 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
+2023-01-15 00:16:31 INFO  RetryLogic:20 - Running a failed test 2 times
+2023-01-15 00:16:39 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
+2023-01-15 00:16:55 INFO  RetryLogic:20 - Running a failed test 3 times
+2023-01-15 00:17:02 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
+2023-01-15 00:17:18 ERROR CustomListener:28 - Test execution failed and taking screen shot: verifyOrderPlaced
+2023-01-15 00:17:18 ERROR CustomListener:28 - Test execution failed and taking screen shot: verifyOrderPlaced
+2023-01-18 22:11:41 INFO  CustomListener:17 - Test execution has started for: testSomething
+2023-01-18 22:11:41 INFO  CustomListener:17 - Test execution has started for: verifyLogin
+2023-01-18 22:11:41 INFO  CustomListener:17 - Test execution has started for: verifyUSerIsAbleToEditAddress
+2023-01-18 22:11:41 INFO  CustomListener:17 - Test execution has started for: verifyAlertBannerCredential
+2023-01-18 22:11:42 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-18 22:11:42 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-18 22:11:42 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-18 22:11:42 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-18 22:11:42 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-26 17:40:51 INFO  CustomListener:17 - Test execution has started for: verifyAlertBannerCredential
+2023-01-26 17:40:51 INFO  CustomListener:17 - Test execution has started for: testSomething
+2023-01-26 17:40:51 INFO  CustomListener:17 - Test execution has started for: verifyUSerIsAbleToEditAddress
+2023-01-26 17:40:51 INFO  CustomListener:17 - Test execution has started for: verifyLogin
+2023-01-26 17:40:51 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-26 17:40:51 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-26 17:40:51 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-26 17:40:51 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-26 17:40:51 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-26 17:40:53 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToLoginWithValidUsernamePassword
+2023-01-26 17:40:53 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToChangePhoneNumberOnceLoggedIn
+2023-01-26 17:40:53 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToLogoutSuccesfully
+2023-01-26 17:40:53 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToSubscribeUnsubscribeToNewsLetter
+2023-01-26 17:40:53 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToAddProductsToWishList
+2023-01-26 17:40:55 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToRegisterIntoWebsite
+2023-01-26 17:54:55 INFO  CustomListener:17 - Test execution has started for: verifyUSerIsAbleToEditAddress
+2023-01-26 17:54:55 INFO  CustomListener:17 - Test execution has started for: verifyAlertBannerCredential
+2023-01-26 17:54:55 INFO  CustomListener:17 - Test execution has started for: verifyLogin
+2023-01-26 17:54:55 INFO  CustomListener:17 - Test execution has started for: testSomething
+2023-01-26 17:54:56 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-26 17:54:56 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-26 17:54:56 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-26 17:54:56 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-26 17:54:56 INFO  CustomListener:17 - Test execution has started for: loginVerify
+2023-01-26 17:54:57 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToChangePhoneNumberOnceLoggedIn
+2023-01-26 17:54:57 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToLogoutSuccesfully
+2023-01-26 17:54:57 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToLoginWithValidUsernamePassword
+2023-01-26 17:54:57 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToAddProductsToWishList
+2023-01-26 17:54:57 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToSubscribeUnsubscribeToNewsLetter
+2023-01-26 17:54:58 INFO  CustomListener:17 - Test execution has started for: verifyUserIsAbleToRegisterIntoWebsite
+2023-01-26 17:55:05 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
+2023-01-26 17:55:37 INFO  RetryLogic:20 - Running a failed test 1 times
+2023-01-26 17:55:44 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
+2023-01-26 17:56:16 INFO  RetryLogic:20 - Running a failed test 2 times
+2023-01-26 17:56:24 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
+2023-01-26 17:56:58 INFO  RetryLogic:20 - Running a failed test 3 times
+2023-01-26 17:57:06 INFO  CustomListener:17 - Test execution has started for: verifyOrderPlaced
+2023-01-26 17:57:39 ERROR CustomListener:28 - Test execution failed and taking screen shot: verifyOrderPlaced
+2023-01-26 17:57:39 ERROR CustomListener:28 - Test execution failed and taking screen shot: verifyOrderPlaced
+2023-01-26 18:50:33 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-26 18:50:36 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-26 18:50:36 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-26 18:50:36 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-26 18:50:36 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (4ce1cb4df5b66c0a19a3356b034514a2)] -> css selector: li.dropdown span:first-of-type]
+2023-01-26 18:50:36 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (4ce1cb4df5b66c0a19a3356b034514a2)] -> css selector: li.dropdown span:first-of-type]
+2023-01-26 18:50:36 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Login']
+2023-01-26 18:50:36 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Login']
+2023-01-26 18:50:36 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (4ce1cb4df5b66c0a19a3356b034514a2)] -> xpath: //a[text()='Login']]
+2023-01-26 18:50:37 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (4ce1cb4df5b66c0a19a3356b034514a2)] -> xpath: //a[text()='Login']]
+2023-01-26 18:50:37 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-email
+2023-01-26 18:50:37 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-email
+2023-01-26 18:50:37 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-password
+2023-01-26 18:50:37 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-password
+2023-01-26 18:50:37 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input.btn
+2023-01-26 18:50:37 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input.btn
+2023-01-26 18:50:37 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (4ce1cb4df5b66c0a19a3356b034514a2)] -> css selector: input.btn]
+2023-01-26 18:50:38 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (4ce1cb4df5b66c0a19a3356b034514a2)] -> css selector: input.btn]
+2023-01-26 18:50:38 INFO  WebDriverEvents:98 - Finding Element By.xpath: //h2[text()='My Account']
+2023-01-26 18:50:38 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //h2[text()='My Account']
+2023-01-26 18:50:38 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (4ce1cb4df5b66c0a19a3356b034514a2)] -> xpath: //h2[text()='My Account']]
+2023-01-26 18:50:38 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (4ce1cb4df5b66c0a19a3356b034514a2)] -> xpath: //h2[text()='My Account']]
+2023-01-26 18:52:31 INFO  WebDriverEvents:47 - navigating to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-26 18:52:34 INFO  WebDriverEvents:54 - Navigated to https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-01-26 18:52:34 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: li.dropdown span:first-of-type
+2023-01-26 18:52:34 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: li.dropdown span:first-of-type
+2023-01-26 18:52:35 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: li.dropdown span:first-of-type]
+2023-01-26 18:52:35 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: li.dropdown span:first-of-type]
+2023-01-26 18:52:35 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Login']
+2023-01-26 18:52:35 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Login']
+2023-01-26 18:52:35 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> xpath: //a[text()='Login']]
+2023-01-26 18:52:35 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> xpath: //a[text()='Login']]
+2023-01-26 18:52:35 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-email
+2023-01-26 18:52:35 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-email
+2023-01-26 18:52:36 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-password
+2023-01-26 18:52:36 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-password
+2023-01-26 18:52:36 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: input.btn
+2023-01-26 18:52:36 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: input.btn
+2023-01-26 18:52:36 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: input.btn]
+2023-01-26 18:52:37 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: input.btn]
+2023-01-26 18:52:37 INFO  WebDriverEvents:98 - Finding Element By.xpath: //h2[text()='My Account']
+2023-01-26 18:52:37 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //h2[text()='My Account']
+2023-01-26 18:52:37 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> xpath: //h2[text()='My Account']]
+2023-01-26 18:52:37 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> xpath: //h2[text()='My Account']]
+2023-01-26 18:52:37 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #menu>div:last-of-type>ul>li:nth-of-type(2)>a
+2023-01-26 18:52:37 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #menu>div:last-of-type>ul>li:nth-of-type(2)>a
+2023-01-26 18:52:37 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: #menu>div:last-of-type>ul>li:nth-of-type(2)>a]
+2023-01-26 18:52:37 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: #menu>div:last-of-type>ul>li:nth-of-type(2)>a]
+2023-01-26 18:52:37 INFO  WebDriverEvents:98 - Finding Element By.xpath: //a[text()='Show All Laptops & Notebooks']
+2023-01-26 18:52:37 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //a[text()='Show All Laptops & Notebooks']
+2023-01-26 18:52:37 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> xpath: //a[text()='Show All Laptops & Notebooks']]
+2023-01-26 18:52:38 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> xpath: //a[text()='Show All Laptops & Notebooks']]
+2023-01-26 18:52:38 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #input-sort
+2023-01-26 18:52:38 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #input-sort
+2023-01-26 18:52:39 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: #input-sort]
+2023-01-26 18:52:39 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: #input-sort]
+2023-01-26 18:52:39 INFO  WebDriverEvents:98 - Finding Element By.xpath: //option[text()='Rating (Highest)']
+2023-01-26 18:52:39 INFO  WebDriverEvents:105 - Element FoundBy.xpath: //option[text()='Rating (Highest)']
+2023-01-26 18:52:39 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> xpath: //option[text()='Rating (Highest)']]
+2023-01-26 18:52:39 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> xpath: //option[text()='Rating (Highest)']]
+2023-01-26 18:52:39 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: button[onclick="wishlist.add('46');"]
+2023-01-26 18:52:40 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: button[onclick="wishlist.add('46');"]
+2023-01-26 18:52:40 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: button[onclick="wishlist.add('46');"]]
+2023-01-26 18:52:40 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: button[onclick="wishlist.add('46');"]]
+2023-01-26 18:52:40 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: button[onclick="wishlist.add('45');"]
+2023-01-26 18:52:40 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: button[onclick="wishlist.add('45');"]
+2023-01-26 18:52:40 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: button[onclick="wishlist.add('45');"]]
+2023-01-26 18:52:40 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: button[onclick="wishlist.add('45');"]]
+2023-01-26 18:52:40 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: button[onclick="wishlist.add('44');"]
+2023-01-26 18:52:40 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: button[onclick="wishlist.add('44');"]
+2023-01-26 18:52:40 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: button[onclick="wishlist.add('44');"]]
+2023-01-26 18:52:40 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: button[onclick="wishlist.add('44');"]]
+2023-01-26 18:52:42 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: div.alert
+2023-01-26 18:52:42 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: div.alert
+2023-01-26 18:52:42 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: div.alert]
+2023-01-26 18:52:42 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: div.alert]
+2023-01-26 18:52:42 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: div.alert a:last-of-type
+2023-01-26 18:52:42 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: div.alert a:last-of-type
+2023-01-26 18:52:42 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: div.alert a:last-of-type]
+2023-01-26 18:52:43 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: div.alert a:last-of-type]
+2023-01-26 18:52:43 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: table.table thead tr td
+2023-01-26 18:52:43 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: table.table thead tr td
+2023-01-26 18:52:43 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:43 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:43 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:43 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:43 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: table.table tbody tr
+2023-01-26 18:52:43 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: table.table tbody tr
+2023-01-26 18:52:43 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-26 18:52:43 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-26 18:52:43 INFO  WebDriverEvents:180 - Switching to window text from [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:43 INFO  WebDriverEvents:187 - Switched to window text from  [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:43 INFO  WebDriverEvents:180 - Switching to window text from [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:187 - Switched to window text from  [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: table.table thead tr td
+2023-01-26 18:52:44 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: table.table thead tr td
+2023-01-26 18:52:44 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: table.table tbody tr
+2023-01-26 18:52:44 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: table.table tbody tr
+2023-01-26 18:52:44 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-26 18:52:44 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-26 18:52:44 INFO  WebDriverEvents:180 - Switching to window text from [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:187 - Switched to window text from  [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-26 18:52:44 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-26 18:52:44 INFO  WebDriverEvents:180 - Switching to window text from [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:187 - Switched to window text from  [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:180 - Switching to window text from [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:187 - Switched to window text from  [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: table.table thead tr td
+2023-01-26 18:52:44 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: table.table thead tr td
+2023-01-26 18:52:44 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: table.table tbody tr
+2023-01-26 18:52:44 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: table.table tbody tr
+2023-01-26 18:52:44 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-26 18:52:44 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-26 18:52:44 INFO  WebDriverEvents:180 - Switching to window text from [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:187 - Switched to window text from  [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-26 18:52:44 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-26 18:52:44 INFO  WebDriverEvents:180 - Switching to window text from [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:187 - Switched to window text from  [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-26 18:52:44 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-26 18:52:44 INFO  WebDriverEvents:180 - Switching to window text from [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:187 - Switched to window text from  [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:180 - Switching to window text from [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:187 - Switched to window text from  [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: table.table thead tr td
+2023-01-26 18:52:44 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: table.table thead tr td
+2023-01-26 18:52:44 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:44 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: table.table tbody tr
+2023-01-26 18:52:45 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: table.table tbody tr
+2023-01-26 18:52:45 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-26 18:52:45 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-26 18:52:45 INFO  WebDriverEvents:180 - Switching to window text from [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:187 - Switched to window text from  [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:180 - Switching to window text from [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:187 - Switched to window text from  [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: table.table thead tr td
+2023-01-26 18:52:45 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: table.table thead tr td
+2023-01-26 18:52:45 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: table.table tbody tr
+2023-01-26 18:52:45 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: table.table tbody tr
+2023-01-26 18:52:45 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-26 18:52:45 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-26 18:52:45 INFO  WebDriverEvents:180 - Switching to window text from [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:187 - Switched to window text from  [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-26 18:52:45 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-26 18:52:45 INFO  WebDriverEvents:180 - Switching to window text from [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:187 - Switched to window text from  [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:180 - Switching to window text from [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:187 - Switched to window text from  [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: table.table thead tr td
+2023-01-26 18:52:45 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: table.table thead tr td
+2023-01-26 18:52:45 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:45 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:46 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:46 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:46 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table thead tr td]
+2023-01-26 18:52:46 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: table.table tbody tr
+2023-01-26 18:52:46 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: table.table tbody tr
+2023-01-26 18:52:46 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-26 18:52:46 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-26 18:52:46 INFO  WebDriverEvents:180 - Switching to window text from [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:46 INFO  WebDriverEvents:187 - Switched to window text from  [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:46 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-26 18:52:46 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-26 18:52:46 INFO  WebDriverEvents:180 - Switching to window text from [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:46 INFO  WebDriverEvents:187 - Switched to window text from  [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:46 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: td
+2023-01-26 18:52:46 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: td
+2023-01-26 18:52:46 INFO  WebDriverEvents:180 - Switching to window text from [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:46 INFO  WebDriverEvents:187 - Switched to window text from  [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:46 INFO  WebDriverEvents:180 - Switching to window text from [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:46 INFO  WebDriverEvents:187 - Switched to window text from  [[[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: table.table tbody tr]] -> css selector: td]
+2023-01-26 18:52:46 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: a[href$='remove=46']
+2023-01-26 18:52:46 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: a[href$='remove=46']
+2023-01-26 18:52:46 INFO  WebDriverEvents:112 - Clicking on[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: a[href$='remove=46']]
+2023-01-26 18:52:47 INFO  WebDriverEvents:119 - Clicked on[[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: a[href$='remove=46']]
+2023-01-26 18:52:47 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: #content h2
+2023-01-26 18:52:47 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: #content h2
+2023-01-26 18:52:47 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: #content h2]
+2023-01-26 18:52:47 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: #content h2]
+2023-01-26 18:52:47 INFO  WebDriverEvents:98 - Finding Element By.cssSelector: div.alert
+2023-01-26 18:52:47 INFO  WebDriverEvents:105 - Element FoundBy.cssSelector: div.alert
+2023-01-26 18:52:47 INFO  WebDriverEvents:180 - Switching to window text from [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: div.alert]
+2023-01-26 18:52:47 INFO  WebDriverEvents:187 - Switched to window text from  [[RemoteWebDriver: chrome on WINDOWS (69bb6f1e5f20c2804879921a445737f3)] -> css selector: div.alert]

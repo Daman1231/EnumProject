@@ -19,7 +19,7 @@ import com.naveenautomation.Listener.WebDriverEvents;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class TestBase {
-	//testing webhook
+	// testing webhook
 	public static ThreadLocal<WebDriver> local = new ThreadLocal<>();
 
 	public static WebDriver driver;
@@ -41,6 +41,7 @@ public class TestBase {
 //			WebDriverManager.chromedriver().setup();
 			try {
 				driver = new RemoteWebDriver(new URL("http://192.168.2.254:4444"), options);
+				local.set(driver);
 			} catch (MalformedURLException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -64,8 +65,7 @@ public class TestBase {
 		eventFiringWebDriver = new EventFiringWebDriver(local.get());
 		events = new WebDriverEvents();
 		eventFiringWebDriver.register(events);
-		driver = eventFiringWebDriver;
-		local.set(local.get());
+		local.set(eventFiringWebDriver);
 		local.get().manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		local.get().manage().window().maximize();
 		local.get().manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
